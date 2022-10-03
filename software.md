@@ -12,7 +12,6 @@ Our group developed and maintains freely-available, open-source software package
   <img src="./assets/pics/NeuCA_hex.png" width="125" height="144" />
  	<img src="./assets/pics/ISLET_hex.png" width="125" height="144" />
 <!--   		<img src="/img3.png" width="100" /> 	-->
-</p>
 
 ---------------
 
