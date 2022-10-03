@@ -112,7 +112,7 @@ title: Team
             <b>Ruoxing Li</b><br/>
             Ph.D. student in Biostistics<br/><br/>
             Research interests: high-throughput data analysis; EHR data analysis; biostatistics<br/><br/>
-            Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/jianjun_zhang.html">Dr. Jianjun Zhang<br/><br/>
+            Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/jianjun_zhang.html">Dr. Jianjun Zhang</a><br/><br/>
        
         </div>
     </div>
