@@ -1,28 +1,17 @@
 ---
 layout: page
-title: Tips and others
+title: Resources
 ---
 
-### CWRU HPC
+### MD Anderson Seadragon
 
-- Running STAR alignment software: [Short tutorial ![CV as pdf](./assets/pics/pdf-icon.png)](STAR_CWRU_HPC.pdf)
-
-
-### Daily research
-
-- Basic Unix &amp; Perl commands: [Unix and Perl to the Rescue](http://korflab.ucdavis.edu/unix_and_perl/)
-- Organizing computational biology projects: [Article](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+- Online [docs](https://fuc.readthedocs.io/en/latest/seadragon.html)
+- User Manual as a [pdf ![CV as pdf](./assets/pics/pdf-icon.png)](http://hpcweb/user_guides.dir/new_user.dir/SeadragonNEWUserOrientation.pdf) (I found this super helpful)
 
 
 ### Useful links
 
-- Latex table generator: [Online](https://www.tablesgenerator.com/)
-- Jeff Leek's book (free!) offers suggestions on: [How to be a modern scientist](https://leanpub.com/modernscientist)
-- David Donoho's insight into: [50 years of Data Science](https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
-- Teaming for Excellence: [challenges and collaboration in the world of reproductive clinical and translational research ![CV as pdf](./assets/pics/pdf-icon.png)](teaming_for_exce.pdf)
-- A Guide to Machine Learning for Biologists: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NRev21.pdf)
-
-### JSM 2022 Talk 
-- LINK: [link ![CV as pdf](./assets/pics/pdf-icon.png)](NeuCA_JSM.pdf)
-
+- Find newly published Biometrics paper [here](https://onlinelibrary.wiley.com/toc/15410420/0/ja)
+- Find newly published JASA paper [here](https://www.tandfonline.com/action/showAxaArticles?journalCode=uasa20)
+- Find NIH funding opporunities [here](https://grants.nih.gov/funding/searchguide/index.html#/)
 
