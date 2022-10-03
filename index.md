@@ -10,7 +10,7 @@ description: Ziyi Li's website in Statistical Genomics
 
 
 <p align="center">
-  <img src="./assets/pics/LabFront.png" alt="CWRUcampus" width="900"/>
+  <img src="./assets/pics/LabFront.png" alt="LabFront" width="900"/>
 </p>
 
 
