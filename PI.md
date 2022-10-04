@@ -49,7 +49,7 @@ I am an Assistant Professor in Biostatistics at MD Anderson Cancer Center.
 My research interest is to develop useful statistical and computational tools for the analyses of genomic, multi-omics and electronic health record data.  In addition to methodology research, I am also interested in collaboration projects with Biologist and Physicians.  My previous collaboration project involves the study of cancer, Alzheimer's disease,  autism, obesity and cardiovascular diseases. 
 
 Before joining MD Anderson, I received postdoc training in the lab of  [Prof. Hao Wu](https://www.haowulab.org/) from the Department of Biostatistics and Bioinformatics. I obtained my Ph.D. degree (2018) in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
-[Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Before that, I received my master's degree (2014) in Biostatistics from [Yale School of Public Health] and BS degree (2012) in Statistics from the [School of Mathematics Sciences at Peking University] (https://www.math.pku.edu.cn/en/).
+[Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Before that, I received my master's degree (2014) in Biostatistics from [Yale School of Public Health](https://ysph.yale.edu/) and BS degree (2012) in Statistics from the [School of Mathematics Sciences at Peking University](https://www.math.pku.edu.cn/en/).
 
 
 <!-- [curriculum vitae ![CV as pdf](./assets/pics/pdf-icon.png)](Feng_cv.pdf)<br/> -->

@@ -4,9 +4,10 @@ title: Teaching
 ---
 **At MDA/Rice:**
 
-Co-Instructor. STAT 545 001/GS01 1233: Generalized Linear Models and Categorical Data Analysis<br/>
+**STAT 545 001/GS01 1233: Generalized Linear Models and Categorical Data Analysis**<br/>
+Co-Instructor (with Dr. Yisheng Li)<br/>
  - Fall 2021, class size: 14<br/>
- - [Fall 2022](https://ziyili20.github.io/STAT545.html), class size:10
+ - [Fall 2022](https://ziyili20.github.io/STAT545.html), class size:13
 
 **At Emory:**
 

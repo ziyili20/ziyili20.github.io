@@ -66,7 +66,7 @@ title: Team
     
         <div class="span5">
             <b>Yizhuo Wang</b><br/>
-            GSBS Ph.D. student in Satistics<br/><br/>
+            GSBS Ph.D. student in Biostatistics<br/><br/>
             Research interests: Machine learning; High-throughput data analysis <br/><br/>
             Co-advisee of <a href="https://faculty.mdanderson.org/profiles/xuelin_huang.html">Dr. Xuelin Huang</a> and me<br/><br/>
        
@@ -88,7 +88,7 @@ title: Team
     
         <div class="span5">
             <b>Peng (Jason) Yang</b><br/>
-            Rice Ph.D. student in Satistics<br/><br/>
+            Rice Ph.D. student in Statistics<br/><br/>
             Research interests: High-throughput data analysis, clinical trial design <br/><br/>
             Co-advisee of <a href="https://faculty.mdanderson.org/profiles/ying_yuan.html">Dr. Ying Yuan</a> and me<br/><br/>
        
@@ -110,7 +110,7 @@ title: Team
     
         <div class="span5">
             <b>Ruoxing Li</b><br/>
-            Ph.D. student in Biostistics<br/><br/>
+            Ph.D. student in Biostatstics<br/><br/>
             Research interests: high-throughput data analysis; EHR data analysis; biostatistics<br/><br/>
             Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/jianjun_zhang.html">Dr. Jianjun Zhang</a><br/><br/>
        

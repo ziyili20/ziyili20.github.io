@@ -19,7 +19,7 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [6] Weiwei Zhang<sup>&dagger;</sup>, **Ziyi Li<sup>&dagger;</sup>**, Nana Wei, Hao Wu, Xiaoqi Zheng. “Detection of differentially methylated CpG sites between tumor samples with uneven tumor purities." Bioinformatics, Volume 36, Issue 7, 1 April 2020, Pages 2017–2024, https://doi.org/10.1093/bioinformatics/btz885.
 
-[7] **Ziyi Li<sup>#;</sup>**, Zhenxing Guo, Ying Cheng, Peng Jin, Hao Wu#;</sup>. "Robust partial reference-free cell composition estimation from tissue expression."  Bioinformatics, Volume 36, Issue 11, June 2020, Pages 3431–3438, https://doi.org/10.1093/bioinformatics/btaa184.
+[7] **Ziyi Li<sup>#;</sup>**, Zhenxing Guo, Ying Cheng, Peng Jin, Hao Wu<sup>#;</sup>. "Robust partial reference-free cell composition estimation from tissue expression."  Bioinformatics, Volume 36, Issue 11, June 2020, Pages 3431–3438, https://doi.org/10.1093/bioinformatics/btaa184.
 
 [8] Weiwei Zhang, Hao Wu<sup>#;</sup>, **Ziyi Li<sup>#;</sup>**. "Complete deconvolution of DNA methylation signals from complex tissues: a geometric approach." Bioinformatics, 37, no. 8 (2021): 1052-1059.
 
@@ -35,6 +35,10 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [14] Xiaobo Sun, Xiaochu Lin, **Ziyi Li**, Hao Wu. “A comprehensive comparison of supervised and unsupervised methods for cell type identification in single cell RNA-seq." Accepted for Briefs in Bioinformatics.
 
+[15] Duan, Daoyu, Sijia He, Emina Huang, **Ziyi Li**, and Hao Feng. “NeuCA web server: a neural network-based cell annotation tool with web-app and GUI.” Bioinformatics. 2022 Feb 17;38(8):2361–3.
+[16] Yizhuo Wang, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “A conditional survival distribution-based method for censored data imputation: overcoming the hurdle in machine learning-based survival analysis”. Journal of Biomedical Informatics 2022 Jul;131:104117.
+[17] Yizhuo Wang, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “CondiS Web App: Imputation of censored lifetimes for machine learning-based survival analysis.” Bioinformatics. 2022 Jul 8:btac461.
+
 [18] **Ziyi Li<sup>#;</sup>**, Yizhuo Wang, Irene Ganan-Gomez, Simona Colla, Kim-Anh Do<sup>#;</sup>. "A machine learning-based method for automatically identifying novel cells in annotating single cell RNA-seq data." Accepted to Bioinformatics. 
 
 [19] **Ziyi Li**, Yijian Huang, Datta Patil, Mark Rubin, Martin G. Sanda. “Covariate-specific evaluation of continuous biomarkers.” Under invited revision
@@ -43,15 +47,17 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [21] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Submitted. 
 
-[22] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng, Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Submitted. 
+[22] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Submitted. 
 
 [23] Guanqun Meng, Wen Tang, Emina Huang, **Ziyi Li**, Hao Feng. "A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in RNA-seq Data." Submitted.
 
-[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#;</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Submitted. 
+[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Submitted. 
+
+[25] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Simona Colla, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Submitted. 
 
 &dagger; = co-first authorship; these authors contributed equally   
  
-&#42; = corresponding authorship    
+<sup>#;</sup> = corresponding authorship    
 
 ---
 ### Collaboration works
