@@ -44,7 +44,7 @@ description: Ziyi Li's website in Statistical Genomics
 
 ### Bio
 
-I am an Assistant Professor in Biostatistics at MD Anderson Cancer Center.
+I am an Assistant Professor in Biostatistics at MD Anderson Cancer Center (joined November 2020).
 
 My research interest is to develop useful statistical and computational tools for the analyses of genomic, multi-omics and electronic health record data.  In addition to methodology research, I am also interested in collaboration projects with Biologist and Physicians.  My previous collaboration project involves the study of cancer, Alzheimer's disease,  autism, obesity and cardiovascular diseases. 
 
