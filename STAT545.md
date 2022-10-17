@@ -5,9 +5,10 @@ title: STAT 545 001/GS01 1233: Generalized Linear Models and Categorical Data An
 
 - Syllabus [link ![link](./assets/pics/pdf-icon.png)](./STAT545/stat545_2022_syllabus.pdf)
 - Part 1: GLM introduction [Slides ![Slides](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_1.pdf); [Slides with note space ![Slides with note space](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_1_withNoteSpace.pdf)
+- Part 2: GLM estimation, inference, and model checking [Slides ![Slides](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_2.pdf); [Slides with note space ![Slides with note space](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_2_withNoteSpace.pdf)
+
 
 <!--
-- Lecture 2 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_2_Unsup.pdf)
 - Lecture 3 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_3_clust.pdf)
 - Lecture 4 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_4_fim.pdf)
 - Lecture 5 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_5_fund_sup.pdf)
