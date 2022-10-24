@@ -7,6 +7,7 @@ title: Resources
 
 - Online [docs](https://fuc.readthedocs.io/en/latest/seadragon.html)
 - User Manual as a [pdf ![CV as pdf](./assets/pics/pdf-icon.png)](http://hpcweb/user_guides.dir/new_user.dir/SeadragonNEWUserOrientation.pdf) (I found this super helpful)
+- Advertisement talk at Rice 2022 [pdf ![CV as pdf](./assets/pics/pdf-icon.png)](./TakeForRice_2022Fall.pdf)
 
 
 ### Useful links
