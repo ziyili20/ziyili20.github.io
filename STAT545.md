@@ -9,7 +9,7 @@ title: STAT 545 001/GS01 1233: Generalized Linear Models and Categorical Data An
 - Homework 1 [Assigned on Oct 19th, **due on Oct 28th**]
 - Part 3: Logistic regression [Slides ![Slides](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_3.pdf); [Slides with note space ![Slides with note space](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_3_withNoteSpace.pdf)
 - Part 4: Regression model for multinomial data [Slides ![Slides](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_4.pdf); [Slides with note space ![Slides with note space](./assets/pics/pdf-icon.png)](./STAT545/GLM_PartII_4_withNoteSpace.pdf)
-- Homework 2 [Assigned on Nov 2nd, **due on Nov 14th**] [Question sheet ![Question sheet](./assets/pics/pdf-icon.png)](./STAT545/Stat545-Part2-HW2.pdf)
+- Homework 2 [Assigned on Nov 2nd, **due on Nov 14th**] [Question sheet ![Question sheet](./assets/pics/pdf-icon.png)](./STAT545/Stat545-Part2-HW2.pdf)[Dataset](./STAT545/basketball.csv)
 
 <!--
 - Lecture 3 [link ![Lec1](./assets/pics/pdf-icon.png)](Lecture_3_clust.pdf)
