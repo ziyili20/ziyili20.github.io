@@ -74,7 +74,7 @@ title: Team
     </div>
 </div>
 
---
+-
 
 <div class="container">
 
@@ -96,7 +96,6 @@ title: Team
     </div>
 </div>
 
---
 
 <div class="container">
 
@@ -118,29 +117,7 @@ title: Team
     </div>
 </div>
 
---
-
-
-<div class="container">
-
-  <div class="row-fluid">
-     <div class="span2">
-        <a href="./assets/pics/Yidan.JPG">
-            <img src="./assets/pics/Yidan.JPG"
-                  title="Yidan Huyan" alt="Yidan Huyan"/></a>
-        	</div>
-
-    
-        <div class="span5">
-            <b>Yidan Huyan</b><br/>
-            Ph.D. student in Epidemiology and Biostatistics<br/><br/>
-			  Research interests: high-throughput data analysis; longitudinal data analysis<br/><br/>
-            Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html">Dr. Kim-Ahn Do</a><br/><br/>
-        </div>
-    </div>
-</div>
-
----
+-
 
 
 ### Lab Alumni
@@ -148,6 +125,7 @@ title: Team
 <div class="container">
 
             <b>Sunyi Chi</b> Rotation GSBS Ph.D. student 2020 Spring <br/><br/>
+            <b>Yidan Huyan</b> UT Health Ph.D. student 2022 Fall <br/><br/>
       
     
 </div>

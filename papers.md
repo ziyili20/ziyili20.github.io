@@ -39,21 +39,27 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 [16] Yizhuo Wang, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “A conditional survival distribution-based method for censored data imputation: overcoming the hurdle in machine learning-based survival analysis”. Journal of Biomedical Informatics 2022 Jul;131:104117.
 [17] Yizhuo Wang, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “CondiS Web App: Imputation of censored lifetimes for machine learning-based survival analysis.” Bioinformatics. 2022 Jul 8:btac461.
 
-[18] **Ziyi Li<sup>#;</sup>**, Yizhuo Wang, Irene Ganan-Gomez, Simona Colla, Kim-Anh Do<sup>#;</sup>. "A machine learning-based method for automatically identifying novel cells in annotating single cell RNA-seq data." Accepted to Bioinformatics. 
+[18] **Ziyi Li<sup>#;</sup>**, Yizhuo Wang, Irene Ganan-Gomez, Simona Colla, Kim-Anh Do<sup>#;</sup>. "A machine learning-based method for automatically identifying novel cells in annotating single cell RNA-seq data." Bioinformatics 38.21 (2022): 4885-4892.
 
-[19] **Ziyi Li**, Yijian Huang, Datta Patil, Mark Rubin, Martin G. Sanda. “Covariate-specific evaluation of continuous biomarkers.” Under invited revision
+[19] Guanqun Meng, Wen Tang, Emina Huang, **Ziyi Li**, Hao Feng. "A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in RNA-seq Data." Briefings in Bioinformatics. 2022 Dec 6.
 
-[20] Luxiao Chen, **Ziyi Li**, Hao Wu. "Incorporating cell type hierarchy improves cell type specific differential analyses in bulk omics data." Under invited revision.
+[20] **Ziyi Li**, Yijian Huang, Datta Patil, Mark Rubin, Martin G. Sanda. “Covariate-specific evaluation of continuous biomarkers.” Accepted to Statistics in Medicine.
 
-[21] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Submitted. 
+[21] Luxiao Chen, **Ziyi Li**, Hao Wu. "Incorporating cell type hierarchy improves cell type specific differential analyses in bulk omics data." Under invited revision.
 
-[22] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Submitted. 
+[22] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Under invited revision. 
 
-[23] Guanqun Meng, Wen Tang, Emina Huang, **Ziyi Li**, Hao Feng. "A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in RNA-seq Data." Submitted.
+[23] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Under invited revision. 
 
-[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Submitted. 
+[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Under invited revision. 
 
 [25] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Simona Colla, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Submitted. 
+
+<!-- [26] Hao Feng, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, **Ziyi Li**, Jeffery Krischer, Qian Li. "ISLET: individual-specific reference panel recovery improves cell-type-specific inference." Submitted. -->
+
+[26] Peng Yang<sup>#</sup>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, JianjunZhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor heterogeneity of tumor infiltrating leukocytes with multi-region gene expression sequencing." Submitted.
+
+[27] Ruoxing Li, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Submitted.
 
 &dagger; = co-first authorship; these authors contributed equally   
  
@@ -84,11 +90,11 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [11] Yunhee Kang, Ying Zhou, Yujing Li, Yanfei Han, Jie Xu, Weibo Niu, **Ziyi Li**, Shiying Liu, Hao Feng, Wen Huang, Ranhui Duan, Tianmin Xu, Nisha Raj, Hao Wu, Gary J Bassell, Stephen T Warren, Emily G Allen, Peng Jin, and Zhexing Wen. “Fragile X mental retardation protein regulates neurogenesis and neuronal differentiation in a human organoid model of fragile X syndrome.” Nature Neuroscience (2021).
 
-[12] Aiham Qdaisat, Sai-Ching Jim Yeung, Cristhiam M Rojas Hernandez, Pavani Samudrala, Mona Kamal, **Ziyi Li**, Adriana H. Wechsler. “Characteristics and outcomes of intracranial hemorrhage in cancer patients visiting the emergency department.” Cancer (2021) in press.
+[12] Aiham Qdaisat, Sai-Ching Jim Yeung, Cristhiam M Rojas Hernandez, Pavani Samudrala, Mona Kamal, **Ziyi Li**, Adriana H. Wechsler. “Characteristics and outcomes of intracranial hemorrhage in cancer patients visiting the emergency department.” Journal of Clinical Medicine 11.3 (2022): 643.
 
-[13] Qian Zhang, Qicheng Hu, Junjie Wang, Zhigang Miao, **Ziyi Li**, Yuwen Zhao, Bo Wan, Emily G Allen, Miao Sun, Peng Jin, Xingshun Xu. “Stress modulates Ahi1-dependent nuclear localization of Ten-Eleven Translocation Protein 2.” Human molecular Genetics (2021) in press.
+[13] Qian Zhang, Qicheng Hu, Junjie Wang, Zhigang Miao, **Ziyi Li**, Yuwen Zhao, Bo Wan, Emily G Allen, Miao Sun, Peng Jin, Xingshun Xu. “Stress modulates Ahi1-dependent nuclear localization of Ten-Eleven Translocation Protein 2.” Human molecular genetics 30.22 (2021): 2149-2160.
 
-[14] Cuida Meng, Lei Gu, Yujing Li, Ronghua Li, Yiqu Cao, **Ziyi Li**, Emily G Allen, Dongdong Zhu, Peng Jin. “Ten-Eleven Translocation 2 Modulates allergic inflammation by 5-hydroxymethylcytosine remodeling of immunologic pathways.” Human molecular Genetics (2021) in press.
+[14] Cuida Meng, Lei Gu, Yujing Li, Ronghua Li, Yiqu Cao, **Ziyi Li**, Emily G Allen, Dongdong Zhu, Peng Jin. “Ten-Eleven Translocation 2 Modulates allergic inflammation by 5-hydroxymethylcytosine remodeling of immunologic pathways.” Human molecular genetics 30.21 (2021): 1985-1995.
 
 [15] Xu, Weize, Xicheng Zhang, Feng Liang, Yuhang Cao, **Ziyi Li**, Wenzheng Qu, Jinyu Zhang, Bingui Sun, Qiang Shu, Xuekun Li. Tet1 Regulates Astrocyte Development and Cognition of Mice Through Modulating GluA1. Front Cell Dev Biol. 2021 Oct 28;9:644375. doi: 10.3389/fcell.2021.644375. PMID: 34778243; PMCID: PMC8581465.
 
@@ -98,24 +104,34 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [18] Wilfred Leung,Matthew R. Teater,Ceyda Durmaz,Cem Meydan,Ms. Alexandra G. Chivu,Edward J. Rice,Ashlesha Muley,Jeannie M. Camarillo,Jaison Arivalagan,Amy Chadburn,Neil L. Kelleher,Charles G. Danko,Marcin Imielinski,Sandeep S. Dave,Scott A. Armstrong ,Christopher E. Mason,**Ziyi Li**,Christopher R. Flowers "SETD2 haploinsufficiency enhances germinal center-associated AICDA somatic hypermutation to drive B cell lymphomagenesis" Cancer discovery (2022) in press.
 
-[19] Hussein A. Abbas, Edward Ayoub, Rashmi Kanagal, Hanxiao Sun, Nicholas Short, Musa Yilmaz, Sherry Pierce, Brent Cham, Shane Wing, **Ziyi Li**, Danielle Hammond, Elias Jabbour, Guillermo Garcia-Manero, Michael Andreeff, Naval Daver, Tapan Kadia, Marina Konopleva, Courtney DiNardo, Farhad Ravandi "Validation of Acute Leukemia French Association ALFA1200 Model in Older AML Treated with Intensive Chemotherapy." Accepted to Blood Advances. 
+[19] Hussein A. Abbas, Edward Ayoub, Rashmi Kanagal, Hanxiao Sun, Nicholas Short, Musa Yilmaz, Sherry Pierce, Brent Cham, Shane Wing, **Ziyi Li**, Danielle Hammond, Elias Jabbour, Guillermo Garcia-Manero, Michael Andreeff, Naval Daver, Tapan Kadia, Marina Konopleva, Courtney DiNardo, Farhad Ravandi "Validation of Acute Leukemia French Association ALFA1200 Model in Older AML Treated with Intensive Chemotherapy." Blood advances (2022): bloodadvances-2022007172. 
 
 [20] Qiong Liu, Kailin Zhang, Yunhee Kang, Penghui Deng, Yujing Li, Yangping Li, Yun Tian, Qiying Sun, Yu Tang, Keqin Xu, Jun-Ling Wang, Jifeng Guo, Jia-Da Li, Kun Xia, Qingtuan Meng, Emily Allen, 
-Zhexing Wen, **Ziyi Li**, Hong Jiang, Lu Shen, Ranhui Duan, Bing Yao, Beisha Tang, Yongcheng Pan. 	"GGC repeat expansion within NOTCH2NLC causes behavioral deficits and neurodegeneration through altering splicing and context-dependent gene expression." Submitted.
+Zhexing Wen, **Ziyi Li**, Hong Jiang, Lu Shen, Ranhui Duan, Bing Yao, Beisha Tang, Yongcheng Pan. 	"GGC repeat expansion within NOTCH2NLC causes behavioral deficits and neurodegeneration through altering splicing and context-dependent gene expression." Science Advances 8(47): eadd6391.
 
-[21] Weihua Ding, Lukas Fischer, Qian Chen, **Ziyi Li**, Liuyue Yang, Zerong You, Kun Hu, Lucy Chen, Peter Hu, Wei Chao, Peng Jin, Jianren Mao, Guoping Feng, Mark T. Harnett, and Shiqian Shen. “Highly synchronized cortical neuronal activity in response to neuropathic pain.” Submitted.
+[21] Weihua Ding, Lukas Fischer, Qian Chen, **Ziyi Li**, Liuyue Yang, Zerong You, Kun Hu, Lucy Chen, Peter Hu, Wei Chao, Peng Jin, Jianren Mao, Guoping Feng, Mark T. Harnett, and Shiqian Shen. “Highly synchronized cortical neuronal activity in response to neuropathic pain.” Accepted to Journal of Clinical Investigation.
 
-[22] Ashley Aaroe, Razelle Kurzrock, Gaurav Goyal, Aaron Goodman, Harsh Patel, Gordon Ruan, Gary Ulaner, Jason Young, **Ziyi Li**, Derek Dustin, Ronald Go, Eli Diamond, and Filip Janku. “Successful Treatment of Non-Langerhans Cell Histiocytosis with the MEK Inhibitor Trametinib.” Submitted.
+[22] Ashley Aaroe, Razelle Kurzrock, Gaurav Goyal, Aaron Goodman, Harsh Patel, Gordon Ruan, Gary Ulaner, Jason Young, **Ziyi Li**, Derek Dustin, Ronald Go, Eli Diamond, and Filip Janku. “Successful Treatment of Non-Langerhans Cell Histiocytosis with the MEK Inhibitor Trametinib.” Under invited revision. 
 
 [23] Aiham Qdaisat; Adriana H Wechsler; Cristhiam M Rojas Hernandez; Pavani Samudrala; Mona Kamal; **Ziyi Li**; Sai-Ching Jim Yeung. "Characteristics and outcomes of intracranial hemorrhage in cancer patients visiting the emergency department."Journal of Clinical Medicine 11.3 (2022): 643.
 
 [24] Lixia Qin, Qian Xu, Shishi Min, Yujing Li, **Ziyi Li**, Chao Chen, Hao Wu, Junhai Han, Xiongwei Zhu, Peng Jin, Beisha Tang. “Altered Hydroxymethylome in the Substantia Nigra of Parkinson's Disease." Accepted to Human Molecular Genetics.
 
-[25] Hong Zheng; Pamela Pennington Lockyer; Naran Bao; Faezeh Darbaniyan; **Ziyi Li**; Rashmi Kanagal-Shamanna; Kelly A. Soltysiak; Hui Yang; Irene Ganan-Gomez; Guillermo Montalban-Bravo; Kelly S. Chien; Kim-Anh Do; Naval Daver; Guillermo Garcia-Manero; Yue Wei. "MDM2 antagonist improves the therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia. " Accepted to Leukemia and Lymphoma.
+[25] Hong Zheng; Pamela Pennington Lockyer; Naran Bao; Faezeh Darbaniyan; **Ziyi Li**; Rashmi Kanagal-Shamanna; Kelly A. Soltysiak; Hui Yang; Irene Ganan-Gomez; Guillermo Montalban-Bravo; Kelly S. Chien; Kim-Anh Do; Naval Daver; Guillermo Garcia-Manero; Yue Wei. "MDM2 antagonist improves the therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia. " Leukemia & Lymphoma (2022): 1-11.
 
 [26] Hussein A. Abbas, Edward Ayoub, Hanxiao Sun, Rashmi Kanagal-Shamanna, Nicholas J. Short, Ghayas Issa, Musa Yilmaz, Sherry Pierce, Daniel Rivera, Brent Cham, Shane Wing, **Ziyi Li**, Danielle Hammond, Elias Jabbour, Gautam Borthakur, Guillermo Garcia-Manero, Michael Andreeff, Naval Daver, Tapan Kadia, Marina Konopleva, Courtney DiNardo & Farhad Ravandi (2022) "Clinical and molecular profiling of AML patients with chromosome 7 or 7q deletions in the context of TP53 alterations and venetoclax treatment," Leukemia & Lymphoma, DOI: 10.1080/10428194.2022.2118533
 
-[27] Kevin Liu, Allison Palmiero, Nitish Chopra, Brett Velasquez, **Ziyi Li**, Sam Beddara, Emil Schüler. "Dual beam-current transformer design for monitoring and reporting of electron ultra-high dose rate (FLASH) beam parameters." Submitted.
+[27] Kevin Liu, Allison Palmiero, Nitish Chopra, Brett Velasquez, **Ziyi Li**, Sam Beddara, Emil Schüler. "Dual beam-current transformer design for monitoring and reporting of electron ultra-high dose rate (FLASH) beam parameters." Accepted to Journal of Applied Clinical Medical Physics.
+
+<!-- [28] Faustine Ong, Kunhwa Kim, **Ziyi Li**, Rashmi Kanagal Sharmanna, Courtney D DiNardo, Koichi Takahashi, Guillermo Montalban Bravo, Danielle Hammond, Koji Sasaki, Sherry A Pierce, Hagop M Kantarjian, Guillermo Garcia-Manero, Kelly S Chien. "Contemporary Evaluation of A Cohort of Patients with Clonal Hematopoiesis: A Single Institution Cancer Center Experience." Submitted. 
+
+[29] Samuel Urrutia, **Ziyi Li**, Emmanuel Almanza, Alex Bataller, Rashmi Kanagal-Shamanna, Jayastu Senapati, Koji Sasaki, Kelly Chien, Guillermo Montalban-Bravo, Courtney DiNardo, Gautham Borthakur, Hagop Kantarjian, Carlos Bueso-Ramos, Sherry Pierce, Guillermo Garcia-Manero. "Characteristics of patients with myelodysplastic syndrome (MDS) and spliceosome mutations (SM)." Submitted. 
+
+[30] Kelly S. Chien, Kunhwa Kim, **Ziyi Li**, Rashmi Kanagal Shamanna, Faustine Ong, Guillermo Montalban Bravo, Tapan M. Kadia, Elias J. Jabbour, Naveen Pemmaraju, Danielle E. Hammond, Nicholas J. Short, Farhad Ravandi, Yesid Alvarado, Sherry A. Pierce, Xiao Qin Dong, Hui Yang, Yue Wei, Irene Ganan-Gomez, Simona Colla, Hagop M. Kantarjian, Guillermo Garcia-Manero."Patterns of Hypomethylating Agent Failure in Patients with Myelodysplastic Syndromes." Submitted. -->
 
 [28] Hao Feng, Ying Cheng, **Ziyi Li**, Hao Wu, Peng Jin. “5-hydroxymethylcytosine alterations, cell-free DNA, aging, Alzheimer’s disease." In preparation.
 
+---
+### Book chapter
+
+[1] **Ziyi Li**, Hao Wu. "Cell Type-Specific Analysis for High-throughput Data." Handbook of Statistical Bioinformatics. Springer 2022. <https://link.springer.com/book/10.1007/978-3-662-65902-1>. 
