@@ -47,20 +47,20 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [21] Luxiao Chen, **Ziyi Li**, Hao Wu. "Incorporating cell type hierarchy improves cell type specific differential analyses in bulk omics data." Accepted to Genome Biology.
 
-[22] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Under invited revision. 
+[22] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Accepted to Journal of the American Statistical Association.
 
 [23] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Under invited revision. 
 
-[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Under invited revision. 
+[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Bioinformatics Advances 3.1 (2023): vbad029.
 
-[25] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Simona Colla, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Submitted. 
+[25] Ruoxing Li, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Under invited revision.
+
+[26] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Simona Colla, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Submitted. 
 
 <!-- [26] Hao Feng, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, **Ziyi Li**, Jeffery Krischer, Qian Li. "ISLET: individual-specific reference panel recovery improves cell-type-specific inference." Submitted. -->
 
-[26] Peng Yang<sup>#</sup>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, JianjunZhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor heterogeneity of tumor infiltrating leukocytes with multi-region gene expression sequencing." Submitted.
+[27] Peng Yang<sup>#</sup>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, JianjunZhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor heterogeneity of tumor infiltrating leukocytes with multi-region gene expression sequencing." Submitted.
 [An earlier version of this work won 2023 ASA SGG student paper award].
-
-[27] Ruoxing Li, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Submitted.
 
 [28] Yuanxin Wang, Vakul Mohanty, Jinzhuang Dou, **Ziyi Li**, Ken Chen. "Identifying and characterizing transition cells in developmental processes from scRNA-seq data." Submitted.
 
@@ -114,9 +114,9 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 [20] Qiong Liu, Kailin Zhang, Yunhee Kang, Penghui Deng, Yujing Li, Yangping Li, Yun Tian, Qiying Sun, Yu Tang, Keqin Xu, Jun-Ling Wang, Jifeng Guo, Jia-Da Li, Kun Xia, Qingtuan Meng, Emily Allen, 
 Zhexing Wen, **Ziyi Li**, Hong Jiang, Lu Shen, Ranhui Duan, Bing Yao, Beisha Tang, Yongcheng Pan. 	"GGC repeat expansion within NOTCH2NLC causes behavioral deficits and neurodegeneration through altering splicing and context-dependent gene expression." Science Advances 8(47): eadd6391.
 
-[21] Weihua Ding, Lukas Fischer, Qian Chen, **Ziyi Li**, Liuyue Yang, Zerong You, Kun Hu, Lucy Chen, Peter Hu, Wei Chao, Peng Jin, Jianren Mao, Guoping Feng, Mark T. Harnett, and Shiqian Shen. “Highly synchronized cortical neuronal activity in response to neuropathic pain.” Accepted to Journal of Clinical Investigation.
+[21] Weihua Ding, Lukas Fischer, Qian Chen, **Ziyi Li**, Liuyue Yang, Zerong You, Kun Hu, Lucy Chen, Peter Hu, Wei Chao, Peng Jin, Jianren Mao, Guoping Feng, Mark T. Harnett, and Shiqian Shen. “Highly synchronized cortical neuronal activity in response to neuropathic pain.” J Clin Invest. 2023;133(5):e166408. https://doi.org/10.1172/JCI166408.
 
-[22] Ashley Aaroe, Razelle Kurzrock, Gaurav Goyal, Aaron Goodman, Harsh Patel, Gordon Ruan, Gary Ulaner, Jason Young, **Ziyi Li**, Derek Dustin, Ronald Go, Eli Diamond, and Filip Janku. “Successful Treatment of Non-Langerhans Cell Histiocytosis with the MEK Inhibitor Trametinib.” Under invited revision. 
+[22] Ashley Aaroe, Razelle Kurzrock, Gaurav Goyal, Aaron Goodman, Harsh Patel, Gordon Ruan, Gary Ulaner, Jason Young, **Ziyi Li**, Derek Dustin, Ronald Go, Eli Diamond, and Filip Janku. “Successful Treatment of Non-Langerhans Cell Histiocytosis with the MEK Inhibitor Trametinib.” Clinical, Cosmetic and Investigational Dermatology (2022): 1575-1582. 
 
 [23] Aiham Qdaisat; Adriana H Wechsler; Cristhiam M Rojas Hernandez; Pavani Samudrala; Mona Kamal; **Ziyi Li**; Sai-Ching Jim Yeung. "Characteristics and outcomes of intracranial hemorrhage in cancer patients visiting the emergency department."Journal of Clinical Medicine 11.3 (2022): 643.
 
@@ -133,7 +133,7 @@ Keishi Okubo, Recep Bayraktar, Erik Knutsen, Aiham Qdaisat, Meng Chen, Yongfeng 
 Simone Anfossi, Huanyu Zhang, Drazen Papić, Ines Koch, Anh M. Tran, 
 Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Robert Silasi, Ravi S. Keshari, Manuela Ferracin, Cristina Ivan, Cristian Rodriguez-Aguayo, Gabriel Lopez-Berestein, Constantin Georgescu, Pinaki P. Banjeree, Rafet Basar, **Ziyi Li**, David Horst, Catalin Vasilescu, Maria Teresa Sabrina Bertilaccio, Katy Rezvani, Florea Lupu, Sai-Ching Jim Yeung, George A. Calin. "Anti-miR-93-5p therapy prolongs sepsis survival by restoring the peripheral immune response." Under invited revision.
 
-[29] Samuel Urrutia, **Ziyi Li**, Emmanuel Almanza, Alex Bataller, Rashmi Kanagal-Shamanna, Jayastu Senapati, Koji Sasaki, Kelly Chien, Guillermo Montalban-Bravo, Courtney DiNardo, Gautham Borthakur, Hagop Kantarjian, Carlos Bueso-Ramos, Sherry Pierce, Guillermo Garcia-Manero. "Characteristics of patients with myelodysplastic syndrome (MDS) and spliceosome mutations (SM)." Under invited revision. 
+[29] Samuel Urrutia, **Ziyi Li**, Emmanuel Almanza, Alex Bataller, Rashmi Kanagal-Shamanna, Jayastu Senapati, Koji Sasaki, Kelly Chien, Guillermo Montalban-Bravo, Courtney DiNardo, Gautham Borthakur, Hagop Kantarjian, Carlos Bueso-Ramos, Sherry Pierce, Guillermo Garcia-Manero. "Characteristics of patients with myelodysplastic syndrome (MDS) and spliceosome mutations (SM)." Accepted to Leukemia. 
 
 [30] Kelly S Chien, Faustine Ong, Kunhwa Kim, **Ziyi Li**, Rashmi Kanagal Sharmanna, Courtney D DiNardo, Koichi Takahashi, Guillermo Montalban Bravo, Danielle Hammond, Koji Sasaki, Sherry A Pierce, Hagop M Kantarjian, Guillermo Garcia-Manero. "Outcomes of Individuals with Clonal Hematopoiesis Evaluated at a Cancer Center." Submitted.
 
@@ -145,9 +145,11 @@ Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Rob
 
 [34] Andrew O. Suen, Fengqian Chen, Sheng Wang, **Ziyi Li**, Jing Zhu, Olivia Conn, Kerri Lopez, Ping Cui, Laurence Wechsler, Alan Cross, Gary Fiskum, Rosemary Kozar, Peter Hu, Catriona Miller, Lin Zou, Brittney Williams, Wei Chao. "Extracellular RNA Sensing Mediates Innate Inflammation and Organ Injury in A Murine Model of Polytrauma." Submitted.
 
-[35] Hiroki Akiyama, Ran Zhao, Samar Jam Yazdani, Lauren B. Ostermann, **Ziyi Li**, Natalia Baran, Malcolm L. Pryor, Edward Ayoub, Yuki Nishida, Po Yee Mak, Vivian R. Ruvolo, Bing Z. Carter, Michael Andreeff, and Jo Ishizawa. "Mitochondrial regulation of GPX4-mediated ferroptosis in acute myeloid leukemia." In preparation.
+[35] Hiroki Akiyama, Ran Zhao, Samar Jam Yazdani, Lauren B. Ostermann, **Ziyi Li**, Natalia Baran, Malcolm L. Pryor, Edward Ayoub, Yuki Nishida, Po Yee Mak, Vivian R. Ruvolo, Bing Z. Carter, Michael Andreeff, and Jo Ishizawa. "Mitochondrial regulation of GPX4-mediated ferroptosis in acute myeloid leukemia." Under invited revision.
 
-[36] Hao Feng, Ying Cheng, **Ziyi Li**, Hao Wu, Peng Jin. “5-hydroxymethylcytosine alterations, cell-free DNA, aging, Alzheimer’s disease." In preparation.
+[36] Guillermo Montalban-Bravo, Rashmi Kanagal-Shamanna, **Ziyi Li**, Danielle Hammond, Kelly Chien, Juan Jose Rodriguez-Sevilla, Koji Sasaki, Elias Jabbour, Courtney DiNardo, Koichi Takahashi, Nicholas Short, Ghayas C. Issa, Naveen Pemmaraju, Tapan Kadia, Farhad Ravandi, Naval Daver, Gautam Borthakur, Sanam Loghavi, Sherry Pierce, Carlos Bueso-Ramos, Hagop Kantarjian, Guillermo Garcia-Manero. "Phenotypic Subtypes of Leukemic Transformation in Chronic Myelomonocytic Leukemia." Submitted.
+
+[37] Hao Feng, Ying Cheng, **Ziyi Li**, Hao Wu, Peng Jin. “5-hydroxymethylcytosine alterations, cell-free DNA, aging, Alzheimer’s disease." In preparation.
 
 ---
 ### Book chapter
