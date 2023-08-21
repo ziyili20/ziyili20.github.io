@@ -27,28 +27,6 @@ title: Team
 </div>
 
 ---
-### Postdoc
-
-<div class="container">
-
-  <div class="row-fluid">
-     <div class="span2">
-        <a href="./assets/pics/Samanta.jpg">
-            <img src="./assets/pics/Samanta.jpg"
-                  title="Srijata Samanta" alt="Srijata Samanta"/></a>
-        	</div>
-    
-        <div class="span5">
-            <b>Srijata Samanta</b><br/>
-            Postdoc fellow co-advised by <a href="https://faculty.mdanderson.org/profiles/kim-anh_do.html">Dr. Kim-Ahn Do</a> and me <br/><br/>
-            Research interests: Statistical modeling, single cell and spatial transcriptomics analysis <br/><br/>
-      
-       
-        </div>
-    </div>
-</div>
-
----
 
 
 
@@ -120,10 +98,54 @@ title: Team
 
 -
 
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/YueLyu.jpg">
+            <img src="./assets/pics/YueLyu.jpeg"
+                  title="Yue Lyu" alt="Yue Lyu"/></a>
+        	</div>
+    
+        <div class="span5">
+            <b>Yue Lyu</b><br/>
+            Ph.D. student in Biostatistics <br/><br/>
+            Research interests: Statistical modeling, single cell <br/><br/>
+      Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/steven_lin.html">Dr. Steven Lin</a> <br/><br/>
+       
+        </div>
+    </div>
+</div>
+
+-
+
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/ChenxuanZang.jpg">
+            <img src="./assets/pics/ChenxuanZang.jpeg"
+                  title="Yue Lyu" alt="Chenxuan Zang"/></a>
+        	</div>
+    
+        <div class="span5">
+            <b>Chenxuan Zang</b><br/>
+            Ph.D. student in Biostatistics  <br/><br/>
+            Research interests: Statistical modeling, Spatial transcriptomics <br/><br/>
+      
+      Co-advisee of <a href="https://faculty.mdanderson.org/profiles/peng_wei.html">Dr. Peng Wei</a> and me <br/><br/>
+       
+        </div>
+    </div>
+</div>
+
+---
 
 ### Lab Alumni
 
 <div class="container">
+
+<b>Srijata Samanta</b> Postdoc 2022 Bristol Myers Squibb <br/><br/>
 
             <b>Sunyi Chi</b> Rotation GSBS Ph.D. student 2020 Spring <br/><br/>
             <b>Yidan Huyan</b> UT Health Ph.D. student 2022 Fall <br/><br/>
