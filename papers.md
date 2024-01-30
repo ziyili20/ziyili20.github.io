@@ -43,28 +43,31 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [19] Guanqun Meng, Wen Tang, Emina Huang, **Ziyi Li**, Hao Feng. "A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in RNA-seq Data." Briefings in Bioinformatics. 2022 Dec 6.
 
-[20] **Ziyi Li**, Yijian Huang, Datta Patil, Mark Rubin, Martin G. Sanda. “Covariate-specific evaluation of continuous biomarkers.” Accepted to Statistics in Medicine.
+[20] **Ziyi Li**, Yijian Huang, Datta Patil, Mark Rubin, Martin G. Sanda. “Covariate-specific evaluation of continuous biomarkers.” Statistics in Medicine 42.7 (2023): 953-969.
 
-[21] Luxiao Chen, **Ziyi Li**, Hao Wu. "Incorporating cell type hierarchy improves cell type specific differential analyses in bulk omics data." Accepted to Genome Biology.
+[21] Luxiao Chen, **Ziyi Li**, Hao Wu. "Incorporating cell type hierarchy improves cell type specific differential analyses in bulk omics data." Genome Biology 24.1 (2023): 1-26.
 
-[22] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Accepted to Journal of the American Statistical Association.
+[22] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Journal of the American Statistical Association (2023): 1-19.
 
-[23] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Under invited revision. 
+[23] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Bioinformatics Advances 3.1 (2023): vbad029.
 
-[24] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Bioinformatics Advances 3.1 (2023): vbad029.
+[24] Ruoxing Li, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Briefings in Bioinformatics (2023): bbad230.
 
-[25] Ruoxing Li, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Under invited revision.
+[25] Hao Feng, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, **Ziyi Li**, Jeffery Krischer, Qian Li. "ISLET: individual-specific reference panel recovery improves cell-type-specific inference." Genome Biology 24.1 (2023): 174.
 
-[26] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Simona Colla, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Submitted. 
+[26] Sunyi Chi, Christopher R. Flowers, **Ziyi Li**, Xuelin Huang, Peng Wei. "MASH: Mediation Analysis of Survival Outcome and High-Dimensional Omics Mediators with Application to Complex Diseases. " Accepted to Annals of Applied Statistics.
 
-<!-- [26] Hao Feng, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, **Ziyi Li**, Jeffery Krischer, Qian Li. "ISLET: individual-specific reference panel recovery improves cell-type-specific inference." Submitted. -->
-
-[27] Peng Yang<sup>#</sup>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, JianjunZhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor heterogeneity of tumor infiltrating leukocytes with multi-region gene expression sequencing." Submitted.
+[27] Peng Yang<sup>#</sup>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, JianjunZhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor heterogeneity of tumor infiltrating leukocytes with multi-region gene expression sequencing." Accepted to Annals of Applied Statistics.
 [An earlier version of this work won 2023 ASA SGG student paper award].
 
-[28] Yuanxin Wang, Vakul Mohanty, Jinzhuang Dou, **Ziyi Li**, Ken Chen. "Identifying and characterizing transition cells in developmental processes from scRNA-seq data." Submitted.
+[28] Yuanxin Wang, Vakul Mohanty, Jinzhuang Dou, **Ziyi Li**, Ken Chen. "Identifying and characterizing transition cells in developmental processes from scRNA-seq data." Under invited revision.
 
-[29] Yizhuo Wang, Christopher Flowers, Michael Wang, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "LASiC: Longitudinal Analysis of Single-Cell RNA sequencing data." Submitted.
+[29] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Under invited revision. 
+
+[30] Yizhuo Wang, Christopher Flowers, Michael Wang, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "LASiC: Longitudinal Analysis of Single-Cell RNA sequencing data." Under invited revision.
+
+[31] Yue Lye, Chong Wu, Wei Sun, **Ziyi Li<sup>#</sup>**. "Regional analysis to delineate intrasample heterogeneity with RegionalST." Under invited revision. 
+
 
 &dagger; = co-first authorship; these authors contributed equally   
  
@@ -105,9 +108,9 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [16] Irene Ganan-Gomez, Hui Yang, Feiyang Ma, Natthakan Thongon, Ms Valentina Marchica, Guillaume Richard-Carpentier, Guillermo Montalban-Bravo, Ganiraju Manyam, Feng Wang, Ana Alfonso, Andrea Santoni, Mr Shuaitong Chen, Caleb Class, Kelly Chien, Rashmi Kanagal Shamanna, Justin Ingram, Yamini Ogoti, Ashley Rose, Sanam Loghavi, Pamela Lockyer, Benedetta Cambò, Ms Sarah Schneider, Vera Adema, Mr Michael McLellan, John Garza, Matteo Marchesini, Professor Nicola Giuliani, Matteo Pellegrini, Jing Wang, Jason Walker, **Ziyi Li**, Koichi Takahashi, Stephanie Halene, Joel Leverson, Carlos Bueso-Ramos, Karen Clise-Dwyer, Guillermo Garcia-Manero “Stem cell-specific survival pathways drive the progression of myelodysplastic syndromes.” Nature Medicine, 2022 Mar 3:1-1.
 
-[17] Wang, Sheng, Yang Yang, Andrew Suen, Jing Zhu, Brittney Williams, Jiang Hu, Fengqian Chen, Rosemary Kozar, Shiqian Shen, **Ziyi Li**,  Anjana Jeyaram, Steven M.Jay, Lin Zou, Wei Chao. "Role of Extracellular MicroRNA-146a-5p in Host Innate Immunity and Bacterial Sepsis." iScience (2021) in press.
+[17] Wang, Sheng, Yang Yang, Andrew Suen, Jing Zhu, Brittney Williams, Jiang Hu, Fengqian Chen, Rosemary Kozar, Shiqian Shen, **Ziyi Li**,  Anjana Jeyaram, Steven M.Jay, Lin Zou, Wei Chao. "Role of Extracellular MicroRNA-146a-5p in Host Innate Immunity and Bacterial Sepsis." iScience 24.12 (2021).
 
-[18] Wilfred Leung,Matthew R. Teater,Ceyda Durmaz,Cem Meydan,Ms. Alexandra G. Chivu,Edward J. Rice,Ashlesha Muley,Jeannie M. Camarillo,Jaison Arivalagan,Amy Chadburn,Neil L. Kelleher,Charles G. Danko,Marcin Imielinski,Sandeep S. Dave,Scott A. Armstrong ,Christopher E. Mason,**Ziyi Li**,Christopher R. Flowers "SETD2 haploinsufficiency enhances germinal center-associated AICDA somatic hypermutation to drive B cell lymphomagenesis" Cancer discovery (2022) in press.
+[18] Wilfred Leung,Matthew R. Teater,Ceyda Durmaz,Cem Meydan,Ms. Alexandra G. Chivu,Edward J. Rice,Ashlesha Muley,Jeannie M. Camarillo,Jaison Arivalagan,Amy Chadburn,Neil L. Kelleher,Charles G. Danko,Marcin Imielinski,Sandeep S. Dave,Scott A. Armstrong ,Christopher E. Mason,**Ziyi Li**,Christopher R. Flowers "SETD2 haploinsufficiency enhances germinal center-associated AICDA somatic hypermutation to drive B cell lymphomagenesis" Cancer discovery 12.7 (2022): 1782-1803.
 
 [19] Hussein A. Abbas, Edward Ayoub, Rashmi Kanagal, Hanxiao Sun, Nicholas Short, Musa Yilmaz, Sherry Pierce, Brent Cham, Shane Wing, **Ziyi Li**, Danielle Hammond, Elias Jabbour, Guillermo Garcia-Manero, Michael Andreeff, Naval Daver, Tapan Kadia, Marina Konopleva, Courtney DiNardo, Farhad Ravandi "Validation of Acute Leukemia French Association ALFA1200 Model in Older AML Treated with Intensive Chemotherapy." Blood advances (2022): bloodadvances-2022007172. 
 
@@ -120,20 +123,20 @@ Zhexing Wen, **Ziyi Li**, Hong Jiang, Lu Shen, Ranhui Duan, Bing Yao, Beisha Tan
 
 [23] Aiham Qdaisat; Adriana H Wechsler; Cristhiam M Rojas Hernandez; Pavani Samudrala; Mona Kamal; **Ziyi Li**; Sai-Ching Jim Yeung. "Characteristics and outcomes of intracranial hemorrhage in cancer patients visiting the emergency department."Journal of Clinical Medicine 11.3 (2022): 643.
 
-[24] Lixia Qin, Qian Xu, Shishi Min, Yujing Li, **Ziyi Li**, Chao Chen, Hao Wu, Junhai Han, Xiongwei Zhu, Peng Jin, Beisha Tang. “Altered Hydroxymethylome in the Substantia Nigra of Parkinson's Disease." Accepted to Human Molecular Genetics.
+[24] Lixia Qin, Qian Xu, Shishi Min, Yujing Li, **Ziyi Li**, Chao Chen, Hao Wu, Junhai Han, Xiongwei Zhu, Peng Jin, Beisha Tang. “Altered Hydroxymethylome in the Substantia Nigra of Parkinson's Disease." Human Molecular Genetics 31.20 (2022): 3494-3503.
 
 [25] Hong Zheng; Pamela Pennington Lockyer; Naran Bao; Faezeh Darbaniyan; **Ziyi Li**; Rashmi Kanagal-Shamanna; Kelly A. Soltysiak; Hui Yang; Irene Ganan-Gomez; Guillermo Montalban-Bravo; Kelly S. Chien; Kim-Anh Do; Naval Daver; Guillermo Garcia-Manero; Yue Wei. "MDM2 antagonist improves the therapeutic activity of azacitidine in myelodysplastic syndromes and chronic myelomonocytic leukemia. " Leukemia & Lymphoma (2022): 1-11.
 
 [26] Hussein A. Abbas, Edward Ayoub, Hanxiao Sun, Rashmi Kanagal-Shamanna, Nicholas J. Short, Ghayas Issa, Musa Yilmaz, Sherry Pierce, Daniel Rivera, Brent Cham, Shane Wing, **Ziyi Li**, Danielle Hammond, Elias Jabbour, Gautam Borthakur, Guillermo Garcia-Manero, Michael Andreeff, Naval Daver, Tapan Kadia, Marina Konopleva, Courtney DiNardo & Farhad Ravandi (2022) "Clinical and molecular profiling of AML patients with chromosome 7 or 7q deletions in the context of TP53 alterations and venetoclax treatment," Leukemia & Lymphoma, DOI: 10.1080/10428194.2022.2118533
 
-[27] Kevin Liu, Allison Palmiero, Nitish Chopra, Brett Velasquez, **Ziyi Li**, Sam Beddara, Emil Schüler. "Dual beam-current transformer design for monitoring and reporting of electron ultra-high dose rate (FLASH) beam parameters." Accepted to Journal of Applied Clinical Medical Physics.
+[27] Kevin Liu, Allison Palmiero, Nitish Chopra, Brett Velasquez, **Ziyi Li**, Sam Beddara, Emil Schüler. "Dual beam-current transformer design for monitoring and reporting of electron ultra-high dose rate (FLASH) beam parameters." Journal of applied clinical medical physics 24.2 (2023): e13891.
 
 [28] Mihnea P. Dragomir, Enrique Funtes-Mattei, Melanie Winkle, 
 Keishi Okubo, Recep Bayraktar, Erik Knutsen, Aiham Qdaisat, Meng Chen, Yongfeng Li, Masayoshi Shimizu, Lan Pang, Kevin Liu, Xiuping Liu, 
 Simone Anfossi, Huanyu Zhang, Drazen Papić, Ines Koch, Anh M. Tran, 
-Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Robert Silasi, Ravi S. Keshari, Manuela Ferracin, Cristina Ivan, Cristian Rodriguez-Aguayo, Gabriel Lopez-Berestein, Constantin Georgescu, Pinaki P. Banjeree, Rafet Basar, **Ziyi Li**, David Horst, Catalin Vasilescu, Maria Teresa Sabrina Bertilaccio, Katy Rezvani, Florea Lupu, Sai-Ching Jim Yeung, George A. Calin. "Anti-miR-93-5p therapy prolongs sepsis survival by restoring the peripheral immune response." Under invited revision.
+Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Robert Silasi, Ravi S. Keshari, Manuela Ferracin, Cristina Ivan, Cristian Rodriguez-Aguayo, Gabriel Lopez-Berestein, Constantin Georgescu, Pinaki P. Banjeree, Rafet Basar, **Ziyi Li**, David Horst, Catalin Vasilescu, Maria Teresa Sabrina Bertilaccio, Katy Rezvani, Florea Lupu, Sai-Ching Jim Yeung, George A. Calin. "Anti-miR-93-5p therapy prolongs sepsis survival by restoring the peripheral immune response." The Journal of Clinical Investigation (2023).
 
-[29] Samuel Urrutia, **Ziyi Li**, Emmanuel Almanza, Alex Bataller, Rashmi Kanagal-Shamanna, Jayastu Senapati, Koji Sasaki, Kelly Chien, Guillermo Montalban-Bravo, Courtney DiNardo, Gautham Borthakur, Hagop Kantarjian, Carlos Bueso-Ramos, Sherry Pierce, Guillermo Garcia-Manero. "Characteristics of patients with myelodysplastic syndrome (MDS) and spliceosome mutations (SM)." Accepted to Leukemia. 
+[29] Samuel Urrutia, **Ziyi Li**, Emmanuel Almanza, Alex Bataller, Rashmi Kanagal-Shamanna, Jayastu Senapati, Koji Sasaki, Kelly Chien, Guillermo Montalban-Bravo, Courtney DiNardo, Gautham Borthakur, Hagop Kantarjian, Carlos Bueso-Ramos, Sherry Pierce, Guillermo Garcia-Manero. "Characteristics of patients with myelodysplastic syndrome (MDS) and spliceosome mutations (SM)." Leukemia (2023): 1-4.
 
 [30] Kelly S Chien, Faustine Ong, Kunhwa Kim, **Ziyi Li**, Rashmi Kanagal Sharmanna, Courtney D DiNardo, Koichi Takahashi, Guillermo Montalban Bravo, Danielle Hammond, Koji Sasaki, Sherry A Pierce, Hagop M Kantarjian, Guillermo Garcia-Manero. "Outcomes of Individuals with Clonal Hematopoiesis Evaluated at a Cancer Center." Submitted.
 
@@ -147,9 +150,19 @@ Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Rob
 
 [35] Hiroki Akiyama, Ran Zhao, Samar Jam Yazdani, Lauren B. Ostermann, **Ziyi Li**, Natalia Baran, Malcolm L. Pryor, Edward Ayoub, Yuki Nishida, Po Yee Mak, Vivian R. Ruvolo, Bing Z. Carter, Michael Andreeff, and Jo Ishizawa. "Mitochondrial regulation of GPX4-mediated ferroptosis in acute myeloid leukemia." Under invited revision.
 
-[36] Guillermo Montalban-Bravo, Rashmi Kanagal-Shamanna, **Ziyi Li**, Danielle Hammond, Kelly Chien, Juan Jose Rodriguez-Sevilla, Koji Sasaki, Elias Jabbour, Courtney DiNardo, Koichi Takahashi, Nicholas Short, Ghayas C. Issa, Naveen Pemmaraju, Tapan Kadia, Farhad Ravandi, Naval Daver, Gautam Borthakur, Sanam Loghavi, Sherry Pierce, Carlos Bueso-Ramos, Hagop Kantarjian, Guillermo Garcia-Manero. "Phenotypic Subtypes of Leukemic Transformation in Chronic Myelomonocytic Leukemia." Submitted.
+[36] Guillermo Montalban-Bravo, Rashmi Kanagal-Shamanna, **Ziyi Li**, Danielle Hammond, Kelly Chien, Juan Jose Rodriguez-Sevilla, Koji Sasaki, Elias Jabbour, Courtney DiNardo, Koichi Takahashi, Nicholas Short, Ghayas C. Issa, Naveen Pemmaraju, Tapan Kadia, Farhad Ravandi, Naval Daver, Gautam Borthakur, Sanam Loghavi, Sherry Pierce, Carlos Bueso-Ramos, Hagop Kantarjian, Guillermo Garcia-Manero. "Phenotypic Subtypes of Leukemic Transformation in Chronic Myelomonocytic Leukemia." British Journal of Haematology (2023).
 
-[37] Hao Feng, Ying Cheng, **Ziyi Li**, Hao Wu, Peng Jin. “5-hydroxymethylcytosine alterations, cell-free DNA, aging, Alzheimer’s disease." In preparation.
+[37] Yue Wei, Hong Zheng, Pamela Pennington Lockyer, Faezeh Darbaniyan, **Ziyi Li**, Rashmi Kanagal-Shamanna, Hui Yang, Vera Adema, Simona Colla, and Guillermo Garcia-Manero. "Downregulation of UBA1 Expression in Myelodysplastic Syndrome." Submitted.
+
+[38] Monica K. Wattana, Angela Lindsay, Moira Davenport, Nicholas R. Pettit, Jazmin R. Menendez, **Ziyi Li**, Demis N. Lipe, Aiham Qdaisat, Jason J. Bischof. "Current Gaps in Emergency Medicine Core Content Education for Oncologic Emergencies: A Targeted Needs Assessment." Submitted.
+
+[39] Mehmet Altan, Ruoxing Li, **Ziyi Li**, Runzhe Chen, Joshua Baguley, Sheshadri Ajay, Tran Hai, Latasha D. Little, Natalie Vokes, Saumil Gaudhi, Mara B. Antonoff, Stephen G. Swisher, Greg Lizee, Alexandre Reuben, John Heymach, Jianjun Zhang. "High peripheral T cell diversity is associated with lower risk of toxicity and superior response to dual immune checkpoint inhibitor therapy in patients with metastatic NSCLC." Submitted
+
+[40] Alexandre Bazinet, Sai Prasad Desikan, **Ziyi Li**, Juanjo Rodriguez-Sevilla, Sangeetha Venugopal, Samuel Urrutia, Guillermo Montalban-Bravo, Koji Sasaki, Kelly Chien, Danielle Hammond, Rashmi Kanagal-Shamanna, Irene Ganan-Gomez, Tapan Kadia, Gautam Borthakur, Courtney DiNardo, Naval Daver, Elias Jabbour, Farhad Ravandi, Hagop Kantarjian, and Guillermo Garcia-Manero. "Cytogenetic and molecular associations with outcomes in HR-MDS treated with hypomethylating agents plus venetoclax." Under invited revision.
+
+[41] Yohei Saito, Yi Xiao, Jun Yao, Yunhai Li, Wendao Liu, Hongzhong Li, Xiangliang Yuan, Weiya Xia, Ms Ping Li, Qingling Zhang, Akosua Badu-Nkansah, **Ziyi Li**, Yongkun Wei, Xuedong Yin, Jun Zhao, Mr Seyed Kariminia, Yao-Chung Wu, Jinyang Wang, Jun Yang, Eek-hoon Jho, Paul Chiao, Rosa Hwang, Haoqiang Ying, Huamin Wang, Zhongming Zhao, Anirban Maitra, Mien-Chie Hung, Ronald DePinho, Dihua Yu. "Chemo-induced Yap1 activation and stromal remodeling in therapeutic resistance of pancreatic cancer." Submitted
+
+[42] Hao Feng, Ying Cheng, **Ziyi Li**, Hao Wu, Peng Jin. “5-hydroxymethylcytosine alterations, cell-free DNA, aging, Alzheimer’s disease." In preparation.
 
 ---
 ### Book chapter
