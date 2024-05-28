@@ -32,27 +32,6 @@ title: Team
 
 ### PhD Students
 
-<div class="container">
-
-  <div class="row-fluid">
-     <div class="span2">
-        <a href="./assets/pics/YizhuoWang.jpeg">
-            <img src="./assets/pics/YizhuoWang.jpeg"
-                  title="Yizhuo Wang" alt="Yizhuo Wang"/></a>
-        	</div>
-
-    
-        <div class="span5">
-            <b>Yizhuo Wang</b><br/>
-            GSBS Ph.D. student in Biostatistics<br/><br/>
-            Research interests: Machine learning; High-throughput data analysis <br/><br/>
-            Co-advisee of <a href="https://faculty.mdanderson.org/profiles/xuelin_huang.html">Dr. Xuelin Huang</a> and me<br/><br/>
-       
-        </div>
-    </div>
-</div>
-
--
 
 <div class="container">
 
@@ -139,11 +118,55 @@ title: Team
     </div>
 </div>
 
+-
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/LanShui.JPG">
+            <img src="./assets/pics/LanShui.JPG"
+                  title="Lan Shui" alt="Lan Shui"/></a>
+        	</div>
+
+    
+        <div class="span5">
+            <b>Lan Shui</b><br/>
+            GSBS Ph.D. student in Biostatistics<br/><br/>
+            Research interests: Statistical modeling, Spatial Transcriptomics <br/><br/>
+            Co-advisee of <a href="https://faculty.mdanderson.org/profiles/liang_li.html">Dr. Liang Li</a> and me<br/><br/>
+       
+        </div>
+    </div>
+</div>
+
+-
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/LiTing.PNG">
+            <img src="./assets/pics/LiTing.PNG"
+                  title="Li-Ting Ku" alt="Li-Ting Ku"/></a>
+        	</div>
+
+    
+        <div class="span5">
+            <b>Li-Ting Ku</b><br/>
+            GSBS Ph.D. student in Biostatistics<br/><br/>
+            Research interests: Statistical modeling, Spatial Transcriptomics <br/><br/>
+            Co-advisee of <a href="https://faculty.mdanderson.org/profiles/liang_li.html">Dr. Liang Li</a> and me<br/><br/>
+       
+        </div>
+    </div>
+</div>
+
 ---
 
 ### Lab Alumni
 
 <div class="container">
+
+<b>Yizhuo Wang</b> PhD 2023 Edwards LifeSciences <br/><br/>
 
 <b>Srijata Samanta</b> Postdoc 2022 Bristol Myers Squibb <br/><br/>
 
