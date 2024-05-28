@@ -144,8 +144,8 @@ title: Team
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/LiTing.PNG">
-            <img src="./assets/pics/LiTing.PNG"
+        <a href="./assets/pics/LiTing.png">
+            <img src="./assets/pics/LiTing.png"
                   title="Li-Ting Ku" alt="Li-Ting Ku"/></a>
         	</div>
 
