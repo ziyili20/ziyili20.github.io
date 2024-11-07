@@ -37,8 +37,8 @@ title: Team
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/PengYang.jpeg">
-            <img src="./assets/pics/PengYang.jpeg"
+        <a href="./assets/pics/PengYang.jpg">
+            <img src="./assets/pics/PengYang.jpg"
                   title="Peng (Jason) Yang" alt="Peng (Jason) Yang"/></a>
         	</div>
 
