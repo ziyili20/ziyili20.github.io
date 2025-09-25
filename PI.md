@@ -31,6 +31,7 @@ description: Ziyi Li's website in Statistical Genomics
 
             <div id="hide_email">
             Email: <code>zli16@mdanderson.org</code><br/>
+            International Statistical Insitute (ISI) Elected Member <br/>
              <a href="https://faculty.mdanderson.org/profiles/ziyi_li.html">My official webpage at MD Anderson</a><br/>
       
         </div>
@@ -44,9 +45,9 @@ description: Ziyi Li's website in Statistical Genomics
 
 ### Bio
 
-I am an Assistant Professor in Biostatistics at MD Anderson Cancer Center (joined November 2020).
+I am an Assistant Professor of Biostatistics at MD Anderson Cancer Center, where I have been faculty since November 2020. I also hold adjunct Assistant Professor appointments in the Department of Statistics at Rice University and the Department of Biostatistics at the UTHealth School of Public Health.
 
-My research interest is to develop useful statistical and computational tools for the analyses of genomic, multi-omics and electronic health record data.  In addition to methodology research, I am also interested in collaboration projects with Biologist and Physicians.  My previous collaboration project involves the study of cancer, Alzheimer's disease,  autism, obesity and cardiovascular diseases. 
+My research focuses on developing practical statistical and computational tools for the analysis of genomic, multi-omics, and electronic health record (EHR) data. In addition to methodological innovation, I actively engage in collaborative projects with biologists and physicians. My past collaborative efforts have included studies on cancer, Alzheimer’s disease, autism, obesity, and cardiovascular diseases. Research in my lab has been generously supported by the NIH, including funding from NIGMS (R35GM159819), NCI (U24CA274212, U54CA274220), and other institutes.
 
 Before joining MD Anderson, I received postdoc training in the lab of  [Prof. Hao Wu](https://www.haowulab.org/) from the Department of Biostatistics and Bioinformatics. I obtained my Ph.D. degree (2018) in Biostatistics from [Emory University](https://www.sph.emory.edu/departments/bios/index.html) under the guidance of
 [Prof. Qi Long](https://www.med.upenn.edu/apps/faculty/index.php/g275/p8939931). Before that, I received my master's degree (2014) in Biostatistics from [Yale School of Public Health](https://ysph.yale.edu/) and BS degree (2012) in Statistics from the [School of Mathematics Sciences at Peking University](https://www.math.pku.edu.cn/en/).

@@ -29,7 +29,7 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [11] **Ziyi Li**, Xiaoqian Jiang, Yizhuo Wang, Yejin Kim; Applied machine learning in Alzheimer's disease research: omics, imaging, and clinical data. Emerg Top Life Sci 2021; ETLS20210249. doi: https://doi.org/10.1042/ETLS20210249
 
-[12] Yizhuo Wang, Bing Z. Carter, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “Application of machine learning methods in clinical trials with response-adaptive randomization.” JAMIA, in press.
+[12] <u>Yizhuo Wang</u>, Bing Z. Carter, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “Application of machine learning methods in clinical trials with response-adaptive randomization.” JAMIA, in press.
 
 [13] Xin Wei<sup>&dagger;</sup>, **Ziyi Li<sup>&dagger;</sup>**, Hao Wu. “EDClust: An EM-MM hybrid method for cell clustering in multiple-subject single-cell RNA sequencing.” Accepted for Bioinformatics.
 
@@ -37,11 +37,11 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [15] Duan, Daoyu, Sijia He, Emina Huang, **Ziyi Li**, and Hao Feng. “NeuCA web server: a neural network-based cell annotation tool with web-app and GUI.” Bioinformatics. 2022 Feb 17;38(8):2361–3.
 
-[16] Yizhuo Wang, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “A conditional survival distribution-based method for censored data imputation: overcoming the hurdle in machine learning-based survival analysis”. Journal of Biomedical Informatics 2022 Jul;131:104117.
+[16] <u>Yizhuo Wang</u>, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “A conditional survival distribution-based method for censored data imputation: overcoming the hurdle in machine learning-based survival analysis”. Journal of Biomedical Informatics 2022 Jul;131:104117.
 
-[17] Yizhuo Wang, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “CondiS Web App: Imputation of censored lifetimes for machine learning-based survival analysis.” Bioinformatics. 2022 Jul 8:btac461.
+[17] <u>Yizhuo Wang</u>, Christopher Flowers, **Ziyi Li<sup>#;</sup>**, Xuelin Huang<sup>#;</sup>. “CondiS Web App: Imputation of censored lifetimes for machine learning-based survival analysis.” Bioinformatics. 2022 Jul 8:btac461.
 
-[18] **Ziyi Li<sup>#;</sup>**, Yizhuo Wang, Irene Ganan-Gomez, Simona Colla, Kim-Anh Do<sup>#;</sup>. "A machine learning-based method for automatically identifying novel cells in annotating single cell RNA-seq data." Bioinformatics 38.21 (2022): 4885-4892.
+[18] **Ziyi Li<sup>#;</sup>**, <u>Yizhuo Wang</u>, Irene Ganan-Gomez, Simona Colla, Kim-Anh Do<sup>#;</sup>. "A machine learning-based method for automatically identifying novel cells in annotating single cell RNA-seq data." Bioinformatics 38.21 (2022): 4885-4892.
 
 [19] Guanqun Meng, Wen Tang, Emina Huang, **Ziyi Li**, Hao Feng. "A Comprehensive Assessment of Cell Type-specific Differential Expression Methods in RNA-seq Data." Briefings in Bioinformatics. 2022 Dec 6.
 
@@ -51,9 +51,9 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [22] **Ziyi Li**, Yu Shen, Jing Ning. "Accommodating time-varying heterogeneity in risk estimation under the Cox model: a transfer learning approach." Journal of the American Statistical Association (2023): 1-19.
 
-[23] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Bioinformatics Advances 3.1 (2023): vbad029.
+[23] <u>Ruoxing Li</u>, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "EasyCellType: Marker based cell type annotation by automatically querying multiple databases." Bioinformatics Advances 3.1 (2023): vbad029.
 
-[24] Ruoxing Li, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Briefings in Bioinformatics (2023): bbad230.
+[24] <u>Ruoxing Li</u>, Mehmet Altan, Alexandre Reuben, Ruitao Lin, John V. Heymach, Hai Tran, Runzhe Chen, Latasha Little, Shawna Hubert, Jianjun Zhang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A novel statistical method for decontaminating T-cell receptor sequencing data." Briefings in Bioinformatics (2023): bbad230.
 
 [25] Hao Feng, Guanqun Meng, Tong Lin, Hemang Parikh, Yue Pan, **Ziyi Li**, Jeffery Krischer, Qian Li. "ISLET: individual-specific reference panel recovery improves cell-type-specific inference." Genome Biology 24.1 (2023): 174.
 
@@ -61,32 +61,43 @@ Ziyi's [Google Scholar](https://scholar.google.com/citations?view_op=list_works&
 
 [27] Yuanxin Wang, Vakul Mohanty, Jinzhuang Dou, **Ziyi Li**, Ken Chen. "Identifying and characterizing transition cells in developmental processes from scRNA-seq data." Under invited revision.
 
-[28] Peng Yang<sup>#</sup>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun
+[28] <u>Peng Yang<sup>#</sup></u>, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun
 Zhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor heterogeneity of tumor infiltrating leukocytes with multi-region gene expression sequencing." Ann. Appl. Stat. 18(3): 1879-1898 (September 2024). DOI: 10.1214/23-AOAS1862.
 [An earlier version of this work won 2023 ASA SGG student paper award].
 
-[29] **Ziyi Li<sup>#</sup>**, Ruoxing Li, Irene Ganan-Gomez, Hussein A. Abbas, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Sci Rep 14.1 (2024): 24152. 
+[29] **Ziyi Li<sup>#</sup>**, <u>Ruoxing Li</u>, Irene Ganan-Gomez, Hussein A. Abbas, Guillermo Garcia-Manero, Wei Sun<sup>#</sup>. "Accurate identification of locally aneuploid cells by incorporating cytogenetic information in single cell data analysis." Sci Rep 14.1 (2024): 24152. 
 
-[30] Yizhuo Wang, Christopher Flowers, Michael Wang, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "CASi: A multi-timepoint scRNAseq data analysis framework." Sci Rep 14, 10633 (2024). https://doi.org/10.1038/s41598-024-58566-x.
+[30] <u>Yizhuo Wang</u>, Christopher Flowers, Michael Wang, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "CASi: A multi-timepoint scRNAseq data analysis framework." Sci Rep 14, 10633 (2024). https://doi.org/10.1038/s41598-024-58566-x.
 
-[31] Yue Lyu, Chong Wu, Wei Sun, **Ziyi Li<sup>#</sup>**. "Regional analysis to delineate intrasample heterogeneity with RegionalST." Bioinformatics. 2024 Apr 1;40(4):btae186. 
+[31] <u>Yue Lyu</u>, Chong Wu, Wei Sun, **Ziyi Li<sup>#</sup>**. "Regional analysis to delineate intrasample heterogeneity with RegionalST." Bioinformatics. 2024 Apr 1;40(4):btae186. 
 
-[32] Ruoxing Li, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "A Systematic Benchmark of Clustering and Antigen-specific Prediction Methods using T Cell Receptor Sequencing Data." Submitted.
+[32] <u>Ruoxing Li</u>, Jianjun Zhang, **Ziyi Li<sup>#</sup>**. "A Systematic Benchmark of Clustering and Antigen-specific Prediction Methods using T Cell Receptor Sequencing Data." Submitted.
 
-[33] Yue Lyu, Steven H. Lin, Hao Wu, **Ziyi Li<sup>#</sup>**. "SCIntRuler: Guiding the integration of multiple single-cell RNA-seq datasets with a novel statistical metric." Bioinformatics. 2024 Sep 2;40(9):btae537. doi: 10.1093/bioinformatics/btae537. PMID: 39226185; PMCID: PMC11415828.
+[33] <u>Yue Lyu</u>, Steven H. Lin, Hao Wu, **Ziyi Li<sup>#</sup>**. "SCIntRuler: Guiding the integration of multiple single-cell RNA-seq datasets with a novel statistical metric." Bioinformatics. 2024 Sep 2;40(9):btae537. doi: 10.1093/bioinformatics/btae537. PMID: 39226185; PMCID: PMC11415828.
 
 [34] Zhining Sui, **Ziyi Li**, Wei Sun. "Exploit Spatially Resolved Transcriptomic Data to Infer Cellular Features from Pathology Imaging Data." Under review.
 
-[35] Chenxuan Zang, Charles C. Guo, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics." Under review.
+[35] <u>Chenxuan Zang</u>, Charles C. Guo, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics." Under review.
 
-[36] Lan Shui, Anirban Maitra, Ying Yuan, Ken Lau, Harsimran Kaur, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**, and for the Translational and Basic Science Research in Early Lesions (TBEL) Program. "PoweREST: Statistical Power Estimation for Spatial Transcriptomics Experiments to Detect Differentially Expressed Genes Between Two Conditions." Submitted.
+[36] <u>Lan Shui</u>, Anirban Maitra, Ying Yuan, Ken Lau, Harsimran Kaur, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**, and for the Translational and Basic Science Research in Early Lesions (TBEL) Program. "PoweREST: Statistical Power Estimation for Spatial Transcriptomics Experiments to Detect Differentially Expressed Genes Between Two Conditions." Accepted in Plos Computational Biology.
 
-[37] Eric Li, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Delineating the Spatial Patterns of Cell Type-Specific Stemness Using a Statistical Deconvolution Model." Submitted.
+[37] Vincent Bernard<sup>&dagger;</sup>, <u>Li-Ting Ku<sup>&dagger;</sup></u>, Tianyu Wang, Ariana Acevedo-Diaz, Kimal I Rajapakshe, Galia Jacobson, Daniela Tovar, Jimin Min, Guangsheng Pei, Candise Tat, Ayush Suresh, Ching-Wei D Tzeng, Matthew Hg Katz, Manoop S Bhutani, Huaming Wang, Robert A Wolff, Cara Haymaker, Ethan B Ludmir, Huocong Huang, Xiongfeng Chen, Liang Li, Albert C Koong, Linghua Wang, Nicholas E Navin, Dadi Jiang, **Ziyi Li<sup>#</sup>**, Anirban Maitra<sup>#</sup>, Eugene J Koay<sup>#</sup>. A spatial atlas of chemoradiation therapy in pancreatic cancer identifies cellular and microenvironmental determinants of persister populations. Under review.
+
+[38] <u>Li-Ting Ku</u>, Vincent Bernard, Jimin Min, Ying Yuan, Eugene J. Koay, Aniban Maitra, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Deciphering Cellular Crosstalk in Spatially Transcriptomics: A Benchmarking Study with Practical Insights". Submitted
+
+[39] <u>Chenxuan Zang</u>, Emily Eschueddig, Charles C. Guo, Lei Huo, Chunru Lin, Fariba Behbod, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "highSpaClone: Copy Number Variation Inference and Tumor Subclone Analysis for High-Resolution Spatial Transcriptomics". 
+
+[40] <u>Ruoxing Li</u>, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher R Flowers, Lulu Shang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Accurate imputation of pathway-specific gene expression in spatial transcriptomics with PASTA." Under invited revision. 
+
+[41] Ancuta Jurj, Mihnea P. Dragomir, **Ziyi Li<sup>#</sup>**, George A. Calin<sup>#</sup>. "MicroRNAs in oncology: a translational perspective in the AI era." Under invited revision. 
+
+[42] <u>Lan Shui</u>, Liang Li <sup>#</sup>, **Ziyi Li<sup>#</sup>**. "UniST: A Unified Framework for Advancing 3D Spatial Transcriptomics with Generative AI."
 
 <!---
-[37] Ruoxing Li, Peng Yang, Jianjun Zhang, Lulu Shang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Accurate imputation of pathway-specific gene expression in spatial transcriptomics with PASTA." In preparation.
+
 -->
 
+___ = traineed under supervision
 
 &dagger; = co-first authorship; these authors contributed equally   
  
@@ -191,11 +202,12 @@ Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Rob
 
 [45] Elina El-Badry, Luxiao Chen, Khader Ghneim, **Ziyi Li**, Kelsie Brooks, Jake Rhodes, Rafick-Pierre Sekaly, William Kilembe, Susan Allen, Hao Wu, Eric Hunter. "Heightened expression of type I interferon signaling genes in CD4+ T cells from acutely HIV-1 infected women contributes to lower viral loads." Submitted.
 
-[46] Ruparoshni Jayabalan, Ricardo Gonzalez-Delgado, Luis Castillo Montanez, Jing Pan, Ruoxing Li, Jinsam Chang, Fernanda G. Kugeratski, Shajedul Islam, Marini Thian, Andreas B. Wild, Alexander Steinkasserer, **Ziyi Li**, Mauro Di Pilato. "CD83 via CCR7+DC limits intratumoral CD8 responses and promotes tumor growth." Submitted.
+[46] Ruparoshni Jayabalan, Ricardo Gonzalez-Delgado, Luis Castillo Montanez, Jing Pan, Ruoxing Li, Jinsam Chang, Fernanda G. Kugeratski, Shajedul Islam, Marini Thian, Andreas B. Wild, Alexander Steinkasserer, **Ziyi Li**, Mauro Di Pilato. "CD83 via CCR7+DC limits intratumoral CD8 responses and promotes tumor growth." Under invited revision.
 
-[47] Hao Feng, Ying Cheng, **Ziyi Li**, Hao Wu, Peng Jin. “5-hydroxymethylcytosine alterations, cell-free DNA, aging, Alzheimer’s disease." In preparation.
 
 ---
 ### Book chapter
 
 [1] **Ziyi Li**, Hao Wu. "Cell Type-Specific Analysis for High-throughput Data." Handbook of Statistical Bioinformatics. Springer 2022. <https://link.springer.com/book/10.1007/978-3-662-65902-1>. 
+
+[1] Ziyi Li, Peng Yang. "Inferring Novel Cells in Single-Cell RNA-Sequencing Data." In: Azad, R.K. (eds) Transcriptome Data Analysis. Methods in Molecular Biology, vol 2812. Humana, New York, NY. <https://doi.org/10.1007/978-1-0716-3886-6_7>.

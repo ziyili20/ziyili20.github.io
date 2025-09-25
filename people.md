@@ -28,32 +28,7 @@ title: Team
 
 ---
 
-
-
-### PhD Students
-
-
-<div class="container">
-
-  <div class="row-fluid">
-     <div class="span2">
-        <a href="./assets/pics/PengYang.jpg">
-            <img src="./assets/pics/PengYang.jpg"
-                  title="Peng (Jason) Yang" alt="Peng (Jason) Yang"/></a>
-        	</div>
-
-    
-        <div class="span5">
-            <b>Peng (Jason) Yang</b><br/>
-            Rice Ph.D. student in Statistics<br/><br/>
-            Research interests: High-throughput data analysis, clinical trial design <br/><br/>
-            Co-advisee of <a href="https://faculty.mdanderson.org/profiles/ying_yuan.html">Dr. Ying Yuan</a> and me<br/><br/>
-       
-        </div>
-    </div>
-</div>
-
--
+### Postdoctoral Fellow
 
 <div class="container">
 
@@ -67,15 +42,17 @@ title: Team
     
         <div class="span5">
             <b>Ruoxing Li</b><br/>
-            Ph.D. student in Biostatstics<br/><br/>
-            Research interests: high-throughput data analysis; EHR data analysis; biostatistics<br/><br/>
-            Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/jianjun_zhang.html">Dr. Jianjun Zhang</a><br/><br/>
-       
+            Postdoctoral Fellow in Biostatstics<br/><br/>
+            Research interests: high-throughput data analysis; omics data integration; biostatistics<br/><br/>
+                   
         </div>
     </div>
 </div>
 
--
+---
+
+### PhD Students
+
 
 <div class="container">
 
@@ -166,11 +143,13 @@ title: Team
 
 <div class="container">
 
+<b>Peng Yang</b> PhD 2025 Postdoctoral Fellow, MD Anderson Cancer Center <br/><br/>
+
 <b>Yizhuo Wang</b> PhD 2023 Edwards LifeSciences <br/><br/>
 
 <b>Srijata Samanta</b> Postdoc 2022 Bristol Myers Squibb <br/><br/>
 
-            <b>Sunyi Chi</b> Rotation GSBS Ph.D. student 2020 Spring <br/><br/>
+            <b>Sunyi Chi</b> Rotation GSBS Ph.D. student 2020 Spring Amazon <br/><br/>
             <b>Yidan Huyan</b> UT Health Ph.D. student 2022 Fall <br/><br/>
       
     
