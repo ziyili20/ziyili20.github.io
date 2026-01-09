@@ -34,16 +34,16 @@ title: Team
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/RuoxingLi.jpeg">
-            <img src="./assets/pics/RuoxingLi.jpeg"
-                  title="Ruoxing Li" alt="Ruoxing Li"/></a>
+        <a href="./assets/pics/huxi.jpeg">
+            <img src="./assets/pics/huxi.jpeg"
+                  title="Xi Hu" alt="Xi Hu"/></a>
         	</div>
 
     
         <div class="span5">
-            <b>Ruoxing Li</b><br/>
-            Postdoctoral Fellow in Biostatstics<br/><br/>
-            Research interests: high-throughput data analysis; omics data integration; biostatistics<br/><br/>
+            <b>Xi Hu</b><br/>
+            Postdoctoral Fellow in Bioinformatics and Biostatstics<br/><br/>
+            Research interests: Spatial transcriptomics data analysis, multi-omics data integration<br/><br/>
                    
         </div>
     </div>
@@ -137,11 +137,33 @@ title: Team
     </div>
 </div>
 
+-
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/ZhaoqingYin.jpg">
+            <img src="./assets/pics/ZhaoqingYin.jpeg"
+                  title="Zhaoqing Yin" alt="Zhaoqing Yin"/></a>
+        	</div>
+    
+        <div class="span5">
+            <b>Zhaoqing Yin</b><br/>
+            Ph.D. student in Biostatistics <br/><br/>
+            Research interests: Statistical modeling, spatial transcriptomics <br/><br/>
+      Co-advisee of <a href="https://faculty.mdanderson.org/profiles/steven_lin.html">Dr. Steven Lin</a> and me <br/><br/>
+       
+        </div>
+    </div>
+</div>
+
 ---
 
 ### Lab Alumni
 
 <div class="container">
+
+<b>Ruoxing Li</b> PhD 2025 Pharmapace, Inc. <br/><br/>
 
 <b>Peng Yang</b> PhD 2025 Postdoctoral Fellow, MD Anderson Cancer Center <br/><br/>
 
