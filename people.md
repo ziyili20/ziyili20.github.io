@@ -9,9 +9,9 @@ title: Team
 
   <div class="row-fluid">
      <div class="span2">
-        <a href="./assets/pics/Feng.jpg">
+        <a href="./assets/pics/ZiyiLi.jpg">
             <img src="./assets/pics/ZiyiLi.jpg"
-                  title="Harry Feng" alt="Ziyi Li"/></a>
+                  title="Ziyi Li" alt="Ziyi Li"/></a>
         	</div>
 
    
@@ -44,6 +44,26 @@ title: Team
             <b>Xi Hu</b><br/>
             Postdoctoral Fellow in Bioinformatics and Biostatstics<br/><br/>
             Research interests: Spatial transcriptomics data analysis, multi-omics data integration<br/><br/>
+                   
+        </div>
+    </div>
+</div>
+
+-
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/Meher.jpg">
+            <img src="./assets/pics/Meher.jpg"
+                  title="Meher Niger" alt="Meher Niger"/></a>
+        	</div>
+
+    
+        <div class="span5">
+            <b>Meher Niger</b><br/>
+            Postdoctoral Fellow in Bioinformatics and Computational Biology<br/><br/>
+            Research interests: Spatial transcriptomics data analysis, 3D reconstruction<br/><br/>
                    
         </div>
     </div>
