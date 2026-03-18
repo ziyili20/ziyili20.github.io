@@ -97,7 +97,7 @@ Zhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor
 
 [44] <u>Yue Lyu</u>, Xuelin Huang, Steven H. Lin, **Ziyi Li<sup>#</sup>**. "SuperSurv: Survival Machine Learning Ensembles." 
 
-[45] **Ziyi Li<sup>#</sup>**, Yu Shen, Jing Ning. "Addressing Unmeasured Covariates in Source Cohorts with Transfer Learning for Survival Outcomes"
+[45] **Ziyi Li**, Yu Shen, Jing Ning. "Addressing Unmeasured Covariates in Source Cohorts with Transfer Learning for Survival Outcomes"
 
 
 ___ = traineed under supervision
@@ -232,7 +232,7 @@ Cellular senescence in precancer lesions and early-stage cancers. Cancer cell, S
 
 [59] Guillermo Montalban-Bravo, Chong Wu, Juan Jose Rodriguez-Sevilla, Yue Wei, Kelly Chien, Ian Bouligny, Rashmi Kanagal-Shamanna, **Ziyi Li**, Anuya Natu, Mark Gurney, Alexandre Bazinet, Danielle Hammond, Alex Bataller, Gautam Borthakur, Nicholas Short, Courtney DiNardo, Tapan Kadia, Farhad Ravandi, Naval Daver, Naveen Pemmaraju, Elias Jabbour, Ghayas Issa, Sa Wang, Keyur Patel, Guilin Tang, L. Jeffrey Medeiros, Terra Lasho, Christy Finke, Aref Al-Kali, Clifford Csizmar, Hassan Alkhateeb, Naseema Gangat, Abhishek Mangaonkar, David Roman-Bravo, Leonor Arenillas, Ayalew Tefferi, Hagop Kantarjian, Guillermo Garcia-Manero, Xavier Calvo, Mrinal Patnaik, and Sanam Loghavi. "Incorporation of genomic determinants improves diagnostic accuracy of oligomonocytic chronic." Accepted to Blood Cancer Discovery. 
 
-[60] Guang Lei, Zhengze Lu, Zhihao Xu, Chen Braun, David Huo, Jian Gao, Lin Tan, Ting Hong, Shengrong Wu, Mingchuang Sun, Xi Zhao, Qidong Li, Xiong Chen, Yuelong Yan, Hyemin Lee, Chao Mao, Li Zhuang, Li-Ting Ku, Nahum Puebla, Hampartsoum Barsoumian, Jun Yao, Lingzhi Hong, Jianjun Zhang, Hai Tran, J. Jack Lee, Don Gibbons, Ara Vaporciyan, John Heymach, Chunru Lin, Eyal Gottlieb, Mingjian James You, James W. Welsh, Steven H. Lin, Xingxing Zang, Ziyi Li, Boyi Gan. "Cuproptosis–immunity crosstalk informs a strategy to overcome immunotherapy resistance". Under invited revision. 
+[60] Guang Lei, Zhengze Lu, Zhihao Xu, Chen Braun, David Huo, Jian Gao, Lin Tan, Ting Hong, Shengrong Wu, Mingchuang Sun, Xi Zhao, Qidong Li, Xiong Chen, Yuelong Yan, Hyemin Lee, Chao Mao, Li Zhuang, Li-Ting Ku, Nahum Puebla, Hampartsoum Barsoumian, Jun Yao, Lingzhi Hong, Jianjun Zhang, Hai Tran, J. Jack Lee, Don Gibbons, Ara Vaporciyan, John Heymach, Chunru Lin, Eyal Gottlieb, Mingjian James You, James W. Welsh, Steven H. Lin, Xingxing Zang, **Ziyi Li**, Boyi Gan. "Cuproptosis–immunity crosstalk informs a strategy to overcome immunotherapy resistance". Under invited revision. 
 
 
 

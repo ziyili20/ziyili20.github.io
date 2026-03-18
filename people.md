@@ -64,7 +64,7 @@ title: Team
             <b>Meher Niger</b><br/>
             Postdoctoral Fellow in Bioinformatics and Computational Biology<br/><br/>
             Research interests: Spatial transcriptomics data analysis, 3D reconstruction<br/><br/>
-                   
+            Co-advisee of <a href="https://faculty.mdanderson.org/profiles/ken_chen.html">Dr. Ken Chen</a> and me<br/><br/>
         </div>
     </div>
 </div>
