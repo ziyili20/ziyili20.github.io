@@ -177,6 +177,25 @@ title: Team
     </div>
 </div>
 
+-
+<div class="container">
+
+  <div class="row-fluid">
+     <div class="span2">
+        <a href="./assets/pics/Zhenyang.jpg">
+            <img src="./assets/pics/Zhenyang.jpeg"
+                  title="Zhenyang Zou" alt="Zhenyang Zou"/></a>
+        	</div>
+    
+        <div class="span5">
+            <b>Zhenyang Zou</b><br/>
+            Ph.D. student in Biostatistics <br/><br/>
+            Research interests: 3D spatial transcriptomics, study design <br/><br/>
+       
+        </div>
+    </div>
+</div>
+
 ---
 
 ### Lab Alumni

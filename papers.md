@@ -73,7 +73,7 @@ Zhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor
 
 [32] <u>Yue Lyu</u>, Steven H. Lin, Hao Wu, **Ziyi Li<sup>#</sup>**. "SCIntRuler: Guiding the integration of multiple single-cell RNA-seq datasets with a novel statistical metric." Bioinformatics. 2024 Sep 2;40(9):btae537. doi: 10.1093/bioinformatics/btae537. PMID: 39226185; PMCID: PMC11415828.
 
-[33] Saishi Cui, Zhining Sui, **Ziyi Li**, Ming Yu, William M. Grady, Wei Sun. "Cancer-Specific Fine-Tuning of Histopathology Foundation Models Enables Clinical Translations." Under review.
+[33] Saishi Cui, Zhining Sui, **Ziyi Li**, Ming Yu, William M. Grady, Wei Sun. "Translating Histopathology Foundation Model Embeddings into Cellular and Molecular Features for Clinical Studies." Under review.
 
 [34] <u>Chenxuan Zang</u>, Charles C. Guo, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "TUSCAN: Tumor segmentation and classification analysis in spatial transcriptomics." Accepted in PLOS Computational Biology.
 
@@ -83,9 +83,9 @@ Zhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor
 
 [37] Vincent Bernard<sup>&dagger;</sup>, <u>Li-Ting Ku<sup>&dagger;</sup></u>, Tianyu Wang, Ariana Acevedo-Diaz, Kimal I Rajapakshe, Galia Jacobson, Daniela Tovar, Jimin Min, Guangsheng Pei, Candise Tat, Ayush Suresh, Ching-Wei D Tzeng, Matthew Hg Katz, Manoop S Bhutani, Huaming Wang, Robert A Wolff, Cara Haymaker, Ethan B Ludmir, Huocong Huang, Xiongfeng Chen, Liang Li, Albert C Koong, Linghua Wang, Nicholas E Navin, Dadi Jiang, **Ziyi Li<sup>#</sup>**, Anirban Maitra<sup>#</sup>, Eugene J Koay<sup>#</sup>. A spatial atlas of chemoradiation therapy in pancreatic cancer identifies cellular and microenvironmental determinants of persister populations. Under invited revision.
 
-[38] <u>Li-Ting Ku</u>, Vincent Bernard, Jimin Min, Ying Yuan, Eugene J. Koay, Aniban Maitra, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Deciphering Cellular Crosstalk in Spatially Transcriptomics: A Benchmarking Study with Practical Insights". Under invited revision. 
+[38] <u>Li-Ting Ku</u>, Vincent Bernard, Jimin Min, Ying Yuan, Eugene J. Koay, Aniban Maitra, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Ku, Li-Ting, et al. "Benchmarking tools for deciphering cellular crosstalk in spatially-resolved transcriptomics". Genome Biology (2026).
 
-[39] <u>Chenxuan Zang</u>, Emily Eschueddig, Charles C. Guo, Lei Huo, Chunru Lin, Fariba Behbod, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "highSpaClone: Copy Number Variation Inference and Tumor Subclone Analysis for High-Resolution Spatial Transcriptomics". Under review.
+[39] <u>Chenxuan Zang</u>, Emily Eschueddig, Charles C. Guo, Lei Huo, Chunru Lin, Fariba Behbod, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "highSpaClone: Copy Number Variation Inference and Tumor Subclone Analysis for High-Resolution Spatial Transcriptomics". Under revision.
 
 [40] <u>Ruoxing Li</u>, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher R Flowers, Lulu Shang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Accurate imputation of pathway-specific gene expression in spatial transcriptomics with PASTA." Nature Communications. 2025 Dec 16;17:726.
 
@@ -95,9 +95,11 @@ Zhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor
 
 [43] <u>Yue Lyu</u>, Kelly S. Chien, Koji Sasaki, Ian Bouligny, Jing Ning, Alex Bataller, Alexandre Bazinet, Wei-Ying Jen, Steven Hsesheng Lin, Mahesh Swaminathan, Danielle Hammond, Samuel Urrutia, Juan Jose Rodriguez-Sevilla, Guillermo Montalban-Bravo, Guillermo Garcia-Manero <sup>#</sup>, and **Ziyi Li<sup>#</sup>**. "Dynamic Prognostic Scoring System for Myelodysplastic Syndromes". Submitted.
 
-[44] <u>Yue Lyu</u>, Xuelin Huang, Steven H. Lin, **Ziyi Li<sup>#</sup>**. "SuperSurv: Survival Machine Learning Ensembles." 
+[44] <u>Yue Lyu</u>, Xuelin Huang, Steven H. Lin, **Ziyi Li<sup>#</sup>**. "SuperSurv: Survival Machine Learning Ensembles." Submitted. 
 
-[45] **Ziyi Li**, Yu Shen, Jing Ning. "Addressing Unmeasured Covariates in Source Cohorts with Transfer Learning for Survival Outcomes"
+[45] <u>Yue Lyu</u>, Steven H. Lin, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Bridging Censored Survival Outcomes and Tabular Foundation Models with Pseudo-observation Targets."
+
+[46] **Ziyi Li**, Yu Shen, Jing Ning. "Addressing Unmeasured Covariates in Source Cohorts with Transfer Learning for Survival Outcomes"
 
 
 ___ = traineed under supervision
@@ -221,18 +223,18 @@ Swati Mohapatra, Anh Ton, Mecit Kaplan, Mathew Anderson 6, Spencer Rothfuss, Rob
 
 [54] Trey Waldrop, Grace Murley, Brett Velasquez, Elise Konradsson, Denae Neill, Abagail Delahoussaye, William Schuler, Jorge De La Cerda, **Ziyi Li**, Mark D. Pagel, Emil Schüler. "Investigating the oxygen dependence of FLASH radiotherapy using electron paramagnetic resonance imaging." In press for Radiotherapy & Oncology. 
 
-[55] Kelly S. Chien, **Ziyi Li**, Luca Lanino, Najla Al Ali, Samuel Urrutia, Alex Bataller, Rashmi Kanagal-Shamanna, Sanam Loghavi, Yue Lyu, Ahmed Abdelhakeem, Tareq Abuasab, Emmanuel Almanza, Georgina Gener Ricos, Alexandre Bazinet, Alessia Campagna, Giulia Maggioni, Eric Padron, Zhouer Xie, Guillermo Montalban-Bravo, Nicholas J. Short, Elias J. Jabbour, Tapan M. Kadia, Farhad Ravandi, Gautam Borthakur, Courtney D. DiNardo, Danielle Hammond, Mahesh Swaminathan, Koji Sasaki, Xiao Qin Dong, Sherry A. Pierce, David Sallman, Hagop M. Kantarjian, Matteo G. Della Porta, Guillermo Garcia-Manero, Rami Komrokji. "Performance of molecular scoring systems in hypomethylating agent–treated myelodysplastic syndromes." Under revision for Leukemia. 
+[55] Kelly S. Chien, **Ziyi Li**, Luca Lanino, Najla Al Ali, Samuel Urrutia, Alex Bataller, Rashmi Kanagal-Shamanna, Sanam Loghavi, Yue Lyu, Ahmed Abdelhakeem, Tareq Abuasab, Emmanuel Almanza, Georgina Gener Ricos, Alexandre Bazinet, Alessia Campagna, Giulia Maggioni, Eric Padron, Zhouer Xie, Guillermo Montalban-Bravo, Nicholas J. Short, Elias J. Jabbour, Tapan M. Kadia, Farhad Ravandi, Gautam Borthakur, Courtney D. DiNardo, Danielle Hammond, Mahesh Swaminathan, Koji Sasaki, Xiao Qin Dong, Sherry A. Pierce, David Sallman, Hagop M. Kantarjian, Matteo G. Della Porta, Guillermo Garcia-Manero, Rami Komrokji. "Performance of molecular scoring systems in hypomethylating agent–treated myelodysplastic syndromes." Leukemia, 2026 Mar 6:1-4.
 
 [56] Xen Ping Hoi, Mary M. Stangis, Sarah E. Glass, Jin-Hee Kim, Seung Woo Kang, W. Nathaniel Brennen, **Ziyi Li**, William M. Grady, Srinivasan Yegnasubramanian, Peter Kuhn, Costas A. Lyssiotis, Akiko Sagara, Martha J. Shrubsole, Humam Kadara, Ying Yuan, Robert J. Coffey, Ken S. Lau, Angelo M. De Marzo, Anirban Maitra, Jimin Min, Ming Yu, Keith S. Chan, TBEL Consortium.
 Cellular senescence in precancer lesions and early-stage cancers. Cancer cell, S1535-6108(25)00447-7. 6 Nov. 2025, doi:10.1016/j.ccell.2025.10.006.
 
-[57] Alex Bataller, Kelly Chien, Koji Sasaki, Guillermo Montalban-Bravo, Danielle Hammond, Ian Bouligny, Mahesh Swaminathan, Wei Ying Jen, Eitan Kugler, Rashmi Kanagal-Shamanna, Tapan Kadia, Gautam Borthakur, Courtney DiNardo, Nicholas Short, Naveen Pemmaraju, Elias Jabbour, Naval Daver, Farhad Ravandi, Samuel Urrutia, Georgina Gener-Ricos, Julie Braish, Robert Briski, Juan Jose Rodriguez-Sevilla, **Ziyi Li**, Richard E. Champlin, Elizabeth J. Shpall, Amin Alousi, Betul Oran, Chitra Hosing, Jeremy L. Ramdial, Amanda Olson, Sherry Pierce, Julianne Chen, Hagop Kantarjian, Guillermo Garcia-Manero, Uday Popat. "Impact of allogeneic stem cell transplantation in patients with higher-risk myelodysplastic syndromes." Submitted.
+[57] Alex Bataller, Kelly Chien, Koji Sasaki, Guillermo Montalban-Bravo, Danielle Hammond, Ian Bouligny, Mahesh Swaminathan, Wei Ying Jen, Eitan Kugler, Rashmi Kanagal-Shamanna, Tapan Kadia, Gautam Borthakur, Courtney DiNardo, Nicholas Short, Naveen Pemmaraju, Elias Jabbour, Naval Daver, Farhad Ravandi, Samuel Urrutia, Georgina Gener-Ricos, Julie Braish, Robert Briski, Juan Jose Rodriguez-Sevilla, **Ziyi Li**, Richard E. Champlin, Elizabeth J. Shpall, Amin Alousi, Betul Oran, Chitra Hosing, Jeremy L. Ramdial, Amanda Olson, Sherry Pierce, Julianne Chen, Hagop Kantarjian, Guillermo Garcia-Manero, Uday Popat. "Impact of allogeneic stem cell transplantation in patients with higher-risk myelodysplastic syndromes." Blood Cancer J. 16, 48 (2026). https://doi.org/10.1038/s41408-026-01479-x.
 
 [58] Juan Jose Rodriguez-Sevilla, Kelly S. Chien, **Ziyi Li**, Fatima Jelloul, Ruoxing Li, Najla Al Ali, David Sallman, Rashmi Kanagal-Shamanna, Clifford M. Csizmar, Abhishek Mangaonkar, Mrinal Patnaik, Andres Jerez, Maria Julia Montoro, David Valcarcel, Sandra Castaño-Díez, Marina Diaz-Beya, Jordi Esteve, Monica Del Rey, Maria Diez-Campelo, Xavier Calvo, Francesc Sole, Eric Padron, Guillermo Montalban-Bravo, Guillermo Garcia-Manero, Rami S. Komrokji. "FLT3 mutations in myelodysplastic syndromes and chronic myelomonocytic leukemia: a multi-center analysis." Submitted.
 
 [59] Guillermo Montalban-Bravo, Chong Wu, Juan Jose Rodriguez-Sevilla, Yue Wei, Kelly Chien, Ian Bouligny, Rashmi Kanagal-Shamanna, **Ziyi Li**, Anuya Natu, Mark Gurney, Alexandre Bazinet, Danielle Hammond, Alex Bataller, Gautam Borthakur, Nicholas Short, Courtney DiNardo, Tapan Kadia, Farhad Ravandi, Naval Daver, Naveen Pemmaraju, Elias Jabbour, Ghayas Issa, Sa Wang, Keyur Patel, Guilin Tang, L. Jeffrey Medeiros, Terra Lasho, Christy Finke, Aref Al-Kali, Clifford Csizmar, Hassan Alkhateeb, Naseema Gangat, Abhishek Mangaonkar, David Roman-Bravo, Leonor Arenillas, Ayalew Tefferi, Hagop Kantarjian, Guillermo Garcia-Manero, Xavier Calvo, Mrinal Patnaik, and Sanam Loghavi. "Incorporation of genomic determinants improves diagnostic accuracy of oligomonocytic chronic." Accepted to Blood Cancer Discovery. 
 
-[60] Guang Lei, Zhengze Lu, Zhihao Xu, Chen Braun, David Huo, Jian Gao, Lin Tan, Ting Hong, Shengrong Wu, Mingchuang Sun, Xi Zhao, Qidong Li, Xiong Chen, Yuelong Yan, Hyemin Lee, Chao Mao, Li Zhuang, Li-Ting Ku, Nahum Puebla, Hampartsoum Barsoumian, Jun Yao, Lingzhi Hong, Jianjun Zhang, Hai Tran, J. Jack Lee, Don Gibbons, Ara Vaporciyan, John Heymach, Chunru Lin, Eyal Gottlieb, Mingjian James You, James W. Welsh, Steven H. Lin, Xingxing Zang, **Ziyi Li**, Boyi Gan. "Cuproptosis–immunity crosstalk informs a strategy to overcome immunotherapy resistance". Under invited revision. 
+[60] Guang Lei, Zhengze Lu, Zhihao Xu, Chen Braun, David Huo, Jian Gao, Lin Tan, Ting Hong, Shengrong Wu, Mingchuang Sun, Xi Zhao, Qidong Li, Xiong Chen, Yuelong Yan, Hyemin Lee, Chao Mao, Li Zhuang, Li-Ting Ku, Nahum Puebla, Hampartsoum Barsoumian, Jun Yao, Lingzhi Hong, Jianjun Zhang, Hai Tran, J. Jack Lee, Don Gibbons, Ara Vaporciyan, John Heymach, Chunru Lin, Eyal Gottlieb, Mingjian James You, James W. Welsh, Steven H. Lin, Xingxing Zang, **Ziyi Li**, Boyi Gan. "Cuproptosis–immunity crosstalk informs a strategy to overcome immunotherapy resistance". Cell (2026).
 
 
 
