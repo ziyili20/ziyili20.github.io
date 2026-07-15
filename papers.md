@@ -236,6 +236,7 @@ Cellular senescence in precancer lesions and early-stage cancers. Cancer cell, S
 
 [60] Guang Lei, Zhengze Lu, Zhihao Xu, Chen Braun, David Huo, Jian Gao, Lin Tan, Ting Hong, Shengrong Wu, Mingchuang Sun, Xi Zhao, Qidong Li, Xiong Chen, Yuelong Yan, Hyemin Lee, Chao Mao, Li Zhuang, Li-Ting Ku, Nahum Puebla, Hampartsoum Barsoumian, Jun Yao, Lingzhi Hong, Jianjun Zhang, Hai Tran, J. Jack Lee, Don Gibbons, Ara Vaporciyan, John Heymach, Chunru Lin, Eyal Gottlieb, Mingjian James You, James W. Welsh, Steven H. Lin, Xingxing Zang, **Ziyi Li**, Boyi Gan. "Cuproptosis–immunity crosstalk informs a strategy to overcome immunotherapy resistance". Cell (2026).
 
+[61] Yijia Li, Yang Yang, Chanhee Park, Boyang Ren, Ruoxing Li, Amol Shetty, Brittney Williams, **Ziyi Li**, Lin Zou, Wei Chao. "TLR7 Inhibition Limits Ischemic Cardiac Injury by Disrupting ITGAM-Dependent Immune-Endothelial Interactions." JACC Basic Transl Sci. 2026; 11(8):101626.
 
 
 ---
