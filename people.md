@@ -18,7 +18,7 @@ title: Team
     
         <div class="span5">
             <b>Ziyi Li</b><br/>
-			Assistant Professor<br/><br/>
+			Associate Professor<br/><br/>
       <a href="https://ziyili20.github.io/PI.html">About the PI</a><br/>
    
    
@@ -69,10 +69,7 @@ title: Team
     </div>
 </div>
 
----
-
-### PhD Students
-
+-
 
 <div class="container">
 
@@ -85,15 +82,19 @@ title: Team
     
         <div class="span5">
             <b>Yue Lyu</b><br/>
-            Ph.D. student in Biostatistics <br/><br/>
-            Research interests: Statistical modeling, single cell <br/><br/>
-      Co-advisee of me and <a href="https://faculty.mdanderson.org/profiles/steven_lin.html">Dr. Steven Lin</a> <br/><br/>
+            Postdoctoral Fellow in Biostatistics <br/><br/>
+            Research interests: Statistical modeling, AI, foundation model <br/><br/>
+      Co-advisee of <a href="https://faculty.mdanderson.org/profiles/xuelin_huang.html">Dr. Xuelin Huang</a> and me <br/><br/>
        
         </div>
     </div>
 </div>
 
--
+
+---
+
+### PhD Students
+
 
 <div class="container">
 
@@ -183,7 +184,7 @@ title: Team
 
 <div class="container">
 
-<b>Zhaoqing Yin</b> student, UT Health
+<b>Zhaoqing Yin</b> student, UT Health <br/><br/>
 
 <b>Ruoxing Li</b> PhD 2025 Pharmapace, Inc. <br/><br/>
 

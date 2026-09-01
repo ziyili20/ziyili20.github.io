@@ -79,27 +79,27 @@ Zhang, **Ziyi Li<sup>#</sup>**. "A novel Bayesian model for assessing intratumor
 
 [35] <u>Lan Shui</u>, Anirban Maitra, Ying Yuan, Ken Lau, Harsimran Kaur, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**, and for the Translational and Basic Science Research in Early Lesions (TBEL) Program. "PoweREST: Statistical Power Estimation for Spatial Transcriptomics Experiments to Detect Differentially Expressed Genes Between Two Conditions." PLOS Computational Biology. 2025 Jul 29;21(7):e1013293.
 
-[36] <u>Ruoxing Li</u>, Mauro Di Pilato, Jianjun Zhang, Tao Wang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "A Systematic Benchmark of Clustering and Antigen-specific Prediction Methods using T Cell Receptor Sequencing Data." Submitted.
+[36] Vincent Bernard<sup>&dagger;</sup>, <u>Li-Ting Ku<sup>&dagger;</sup></u>, Tianyu Wang, Ariana Acevedo-Diaz, Kimal I Rajapakshe, Galia Jacobson, Daniela Tovar, Jimin Min, Guangsheng Pei, Candise Tat, Ayush Suresh, Ching-Wei D Tzeng, Matthew Hg Katz, Manoop S Bhutani, Huaming Wang, Robert A Wolff, Cara Haymaker, Ethan B Ludmir, Huocong Huang, Xiongfeng Chen, Liang Li, Albert C Koong, Linghua Wang, Nicholas E Navin, Dadi Jiang, **Ziyi Li<sup>#</sup>**, Anirban Maitra<sup>#</sup>, Eugene J Koay<sup>#</sup>. A spatial atlas of chemoradiation therapy in pancreatic cancer identifies cellular and microenvironmental determinants of persister populations. Under invited revision.
 
-[37] Vincent Bernard<sup>&dagger;</sup>, <u>Li-Ting Ku<sup>&dagger;</sup></u>, Tianyu Wang, Ariana Acevedo-Diaz, Kimal I Rajapakshe, Galia Jacobson, Daniela Tovar, Jimin Min, Guangsheng Pei, Candise Tat, Ayush Suresh, Ching-Wei D Tzeng, Matthew Hg Katz, Manoop S Bhutani, Huaming Wang, Robert A Wolff, Cara Haymaker, Ethan B Ludmir, Huocong Huang, Xiongfeng Chen, Liang Li, Albert C Koong, Linghua Wang, Nicholas E Navin, Dadi Jiang, **Ziyi Li<sup>#</sup>**, Anirban Maitra<sup>#</sup>, Eugene J Koay<sup>#</sup>. A spatial atlas of chemoradiation therapy in pancreatic cancer identifies cellular and microenvironmental determinants of persister populations. Under invited revision.
+[37] <u>Li-Ting Ku</u>, Vincent Bernard, Jimin Min, Ying Yuan, Eugene J. Koay, Aniban Maitra, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Ku, Li-Ting, et al. "Benchmarking tools for deciphering cellular crosstalk in spatially-resolved transcriptomics". Genome Biology (2026).
 
-[38] <u>Li-Ting Ku</u>, Vincent Bernard, Jimin Min, Ying Yuan, Eugene J. Koay, Aniban Maitra, Liang Li<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Ku, Li-Ting, et al. "Benchmarking tools for deciphering cellular crosstalk in spatially-resolved transcriptomics". Genome Biology (2026).
+[38] <u>Chenxuan Zang</u>, Emily Eschueddig, Charles C. Guo, Lei Huo, Chunru Lin, Fariba Behbod, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "highSpaClone: Copy Number Variation Inference and Tumor Subclone Analysis for High-Resolution Spatial Transcriptomics". Accepted for Cell Reports Methods.
 
-[39] <u>Chenxuan Zang</u>, Emily Eschueddig, Charles C. Guo, Lei Huo, Chunru Lin, Fariba Behbod, Peng Wei<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "highSpaClone: Copy Number Variation Inference and Tumor Subclone Analysis for High-Resolution Spatial Transcriptomics". Under revision.
+[39] <u>Ruoxing Li</u>, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher R Flowers, Lulu Shang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Accurate imputation of pathway-specific gene expression in spatial transcriptomics with PASTA." Nature Communications. 2025 Dec 16;17:726.
 
-[40] <u>Ruoxing Li</u>, Peng Yang, Mauro Di Pilato, Jianjun Zhang, Christopher R Flowers, Lulu Shang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Accurate imputation of pathway-specific gene expression in spatial transcriptomics with PASTA." Nature Communications. 2025 Dec 16;17:726.
+[40] Ancuta Jurj, Mihnea P. Dragomir, **Ziyi Li<sup>#</sup>**, George A. Calin<sup>#</sup>. "MicroRNAs in oncology: a translational perspective in the AI era." Nature Reviews Clinical Oncology. 2026 Jan 15:1-21.
 
-[41] Ancuta Jurj, Mihnea P. Dragomir, **Ziyi Li<sup>#</sup>**, George A. Calin<sup>#</sup>. "MicroRNAs in oncology: a translational perspective in the AI era." Nature Reviews Clinical Oncology. 2026 Jan 15:1-21.
+[41] <u>Lan Shui</u>, Yunhe Liu, Idania C.L. Julio, Jean R. Clemenceau, Xen P. Hoi, Yibo Dai, Wei Lu, Jimin Min, Khaja Khan, Bailey Roemer, Mei Jiang, Rebecca E. Waters, Karen Colbert, Anirban Maitra, Max Wintermark, Ying Yuan, Keith S. Chan, Tae H. Hwang, Paul F. Mansfield, Jeremy Davis, Luisa Maren Solis Soto, Linghua Wang<sup>#</sup>, Liang Li <sup>#</sup>, **Ziyi Li<sup>#</sup>**. "UniST: A Unified Framework for Advancing 3D Spatial Transcriptomics with Generative AI." Submitted.
 
-[42] <u>Lan Shui</u>, Yunhe Liu, Idania C.L. Julio, Jean R. Clemenceau, Xen P. Hoi, Yibo Dai, Wei Lu, Jimin Min, Khaja Khan, Bailey Roemer, Mei Jiang, Rebecca E. Waters, Karen Colbert, Anirban Maitra, Max Wintermark, Ying Yuan, Keith S. Chan, Tae H. Hwang, Paul F. Mansfield, Jeremy Davis, Luisa Maren Solis Soto, Linghua Wang<sup>#</sup>, Liang Li <sup>#</sup>, **Ziyi Li<sup>#</sup>**. "UniST: A Unified Framework for Advancing 3D Spatial Transcriptomics with Generative AI." Submitted.
+[42] <u>Yue Lyu</u>, Kelly S. Chien, Koji Sasaki, Ian Bouligny, Jing Ning, Alex Bataller, Alexandre Bazinet, Wei-Ying Jen, Steven Hsesheng Lin, Mahesh Swaminathan, Danielle Hammond, Samuel Urrutia, Juan Jose Rodriguez-Sevilla, Guillermo Montalban-Bravo, Guillermo Garcia-Manero <sup>#</sup>, and **Ziyi Li<sup>#</sup>**. "Dynamic Prognostic Scoring System for Myelodysplastic Syndromes". Submitted.
 
-[43] <u>Yue Lyu</u>, Kelly S. Chien, Koji Sasaki, Ian Bouligny, Jing Ning, Alex Bataller, Alexandre Bazinet, Wei-Ying Jen, Steven Hsesheng Lin, Mahesh Swaminathan, Danielle Hammond, Samuel Urrutia, Juan Jose Rodriguez-Sevilla, Guillermo Montalban-Bravo, Guillermo Garcia-Manero <sup>#</sup>, and **Ziyi Li<sup>#</sup>**. "Dynamic Prognostic Scoring System for Myelodysplastic Syndromes". Submitted.
+[43] <u>Yue Lyu</u>, Xuelin Huang, Steven H. Lin, **Ziyi Li<sup>#</sup>**. "SuperSurv: Survival Machine Learning Ensembles." Submitted. 
 
-[44] <u>Yue Lyu</u>, Xuelin Huang, Steven H. Lin, **Ziyi Li<sup>#</sup>**. "SuperSurv: Survival Machine Learning Ensembles." Submitted. 
+[44] <u>Yue Lyu</u>, Steven H. Lin, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Bridging Censored Survival Outcomes and Tabular Foundation Models with Pseudo-observation Targets."
 
-[45] <u>Yue Lyu</u>, Steven H. Lin, Xuelin Huang<sup>#</sup>, **Ziyi Li<sup>#</sup>**. "Bridging Censored Survival Outcomes and Tabular Foundation Models with Pseudo-observation Targets."
+[45] William S. O. Symmans<sup>&dagger;</sup>, **Ziyi Li<sup>&dagger;</sup>**, George A. Calin, Akanksha Samuel. "AI-integrated RNA therapeutics." Under revision. 
 
-[46] **Ziyi Li**, Yu Shen, Jing Ning. "Addressing Unmeasured Covariates in Source Cohorts with Transfer Learning for Survival Outcomes"
+[46] Weijia Hu, **Ziyi Li**, Yu Shen, Jing Ning. "Addressing Unmeasured Covariates in Source Cohorts with Transfer Learning for Survival Outcomes"
 
 
 ___ = traineed under supervision
